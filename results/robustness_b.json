@@ -1,0 +1,49 @@
+{
+ "sigma_b2": {
+  "forest": 9.143126459698642e-05,
+  "agri": 0.0001234374014414476
+ },
+ "agreement_by_group": {
+  "natural forest": {
+   "points (either interpreter)": 145,
+   "specific agreement": 0.8016528925619835
+  },
+  "planted forest": {
+   "points (either interpreter)": 22,
+   "specific agreement": 0.37037037037037035
+  },
+  "forest land without trees": {
+   "points (either interpreter)": 19,
+   "specific agreement": 0.2727272727272727
+  },
+  "perennial crops": {
+   "points (either interpreter)": 30,
+   "specific agreement": 0.42105263157894735
+  },
+  "annual crops": {
+   "points (either interpreter)": 16,
+   "specific agreement": 0.5454545454545454
+  },
+  "other": {
+   "points (either interpreter)": 84,
+   "specific agreement": 0.6976744186046512
+  },
+  "agriculture yes/no": {
+   "agreement": 0.8916666666666667,
+   "kappa": 0.5048405015076972,
+   "specific agreement (agriculture)": 0.5666666666666667
+  }
+ },
+ "single_low_confidence_points": 385,
+ "imagery": {
+  "main interpretations": 1438,
+  "with a parsable date": 1435,
+  "median absolute gap (months)": 20.0,
+  "within 6 months": 0.12195121951219512,
+  "within 12 months": 0.39372822299651566,
+  "within 24 months": 0.6773519163763067,
+  "before 2021": 0.9114982578397213,
+  "share citing 'no imagery close to 2020' (F5)": 0.3657858136300417,
+  "low confidence share": 0.5159944367176634
+ }
+}

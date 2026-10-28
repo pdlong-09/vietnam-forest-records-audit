@@ -213,11 +213,12 @@ def fig5_rq3():
 def fig6_ai():
     t = pd.read_csv(A.ROOT / "runs/land_audit/explore_b5/strat_ppi_shares.csv")
     t = t[t.predictor == "AV"]
-    doms = [("all record forest", "All recorded forest"), ("ban_quan_ly_kiem_lam", "Management boards"),
-            ("doanh_nghiep", "Enterprises"), ("vuon_quoc_gia_khu_bao_ton", "National parks and reserves"),
-            ("ubnd_xa", "Commune People's Committees")]
+    # every domain with at least 40 phase-two points, as in Table 5 (the households group widens)
+    doms = [("all record forest", "All recorded forest"), ("ho_gia_dinh_ca_nhan_khac", "Households and individuals"),
+            ("ubnd_xa", "Commune People's Committees"), ("vuon_quoc_gia_khu_bao_ton", "National parks and reserves"),
+            ("ban_quan_ly_kiem_lam", "Management boards"), ("khong_ro", "Unknown owners"), ("doanh_nghiep", "Enterprises")]
     meths = [("lambda 0", "Phase-one area only"), ("PPI++", "PPI++ (one λ)"), ("StratPPI", "Stratified PPI")]
-    fig, ax = plt.subplots(figsize=(12 * CM, 6.6 * CM))
+    fig, ax = plt.subplots(figsize=(12 * CM, 8.4 * CM))
     h = 0.26
     for j, (m, mlab) in enumerate(meths):
         for i, (d, _) in enumerate(doms):
@@ -225,12 +226,12 @@ def fig6_ai():
             ax.barh(i + (j - 1) * h, v, height=h * 0.92, color=SLOTS[j], edgecolor="white", linewidth=0.8,
                     label=mlab if i == 0 else None)
             if m == "StratPPI":
-                ax.text(v - 0.012, i + (j - 1) * h, f"{v:.2f}", va="center", ha="right", fontsize=6.8, color=INK)
+                ax.text(v + 0.012, i + (j - 1) * h, f"{v:.2f}", va="center", ha="left", fontsize=6.8, color=INK)
     ax.axvline(1, color=INK2, linewidth=0.8)
-    ax.text(0.99, -0.72, "human-only = 1", fontsize=6.8, color=INK2, ha="right", va="center")
+    ax.text(1.01, -0.72, "human-only = 1", fontsize=6.8, color=INK2, ha="left", va="center")
     ax.set_yticks(range(len(doms)), [lab for _, lab in doms])
     ax.set_ylim(len(doms) - 0.5, -0.95)
-    ax.set_xlim(0, 1.05)
+    ax.set_xlim(0, 1.4)
     ax.set_xlabel("Width of the 95% CI relative to the human-only estimator")
     clean(ax)
     ax.legend(loc="upper center", bbox_to_anchor=(0.4, -0.2), ncol=3, frameon=False, handlelength=1.2, columnspacing=1.0)
@@ -239,6 +240,9 @@ def fig6_ai():
 
 if __name__ == "__main__":
     OUT.mkdir(parents=True, exist_ok=True)
+    if sys.argv[1:] == ["fig6"]:
+        fig6_ai()
+        sys.exit(0)
     fig2_map()
     fig3_rq1()
     fig4_rq2()

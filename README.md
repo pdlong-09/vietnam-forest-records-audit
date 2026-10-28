@@ -10,6 +10,11 @@ The main estimates (Table 1 and the overall accuracies of Table 2) can be recomp
     pip install numpy pandas
     python code/scripts/reproduce_from_release.py data
 
+and checked with code written independently of the main analysis (Cochran's form of the two-phase variance and a
+two-phase bootstrap; Supplementary Section S5):
+
+    python code/scripts/verify_b.py data results
+
 ## Contents
 
 - `data/`: the reference sample, also published on Kaggle
@@ -25,7 +30,8 @@ The main estimates (Table 1 and the overall accuracies of Table 2) can be recomp
   (probability of agricultural use, ResNet-18 on the same Sentinel-2 tiles). The AlphaEarth Foundations embeddings are
   not redistributed; `code/scripts/explore_b.py` fetches them from Google Earth Engine.
 - `results/`: the result tables written by the analysis scripts (RQ1-RQ3, map accuracies, version changes, the
-  AI-assisted estimates).
+  AI-assisted estimates, and the checks of Supplementary Section S5 from `robustness_b.py`: interpreter variance of
+  the headline estimates, agreement by land-use group, sensitivity to low-confidence labels, imagery dates).
 - `docs/interpretation_guide_vi.md`: the interpretation guide given to the interpreters (Vietnamese); the English
   protocol is in Supplementary Materials S2.
 - `code/scripts/`: sampling (`draw_phase1.py`, `build_phase2.py`), label quality control and final labels
