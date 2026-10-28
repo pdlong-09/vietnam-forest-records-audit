@@ -1,0 +1,80 @@
+{
+ "points": 1198,
+ "accuracy_6": 0.5901502504173622,
+ "accuracy_6_area_weighted": 0.7226998595730076,
+ "macro_f1_6": 0.2520787139591192,
+ "per_class_f1": {
+  "natural forest": 0.743,
+  "planted forest": 0.0,
+  "forest land without trees": 0.0,
+  "perennial crops": 0.206,
+  "annual crops": 0.0,
+  "other": 0.564
+ },
+ "confusion (rows human, cols VLM)": {
+  "natural forest": {
+   "natural forest": 489,
+   "planted forest": 60,
+   "forest land without trees": 26,
+   "perennial crops": 48,
+   "annual crops": 13,
+   "other": 82
+  },
+  "planted forest": {
+   "natural forest": 1,
+   "planted forest": 0,
+   "forest land without trees": 0,
+   "perennial crops": 0,
+   "annual crops": 0,
+   "other": 0
+  },
+  "forest land without trees": {
+   "natural forest": 0,
+   "planted forest": 0,
+   "forest land without trees": 0,
+   "perennial crops": 0,
+   "annual crops": 0,
+   "other": 0
+  },
+  "perennial crops": {
+   "natural forest": 12,
+   "planted forest": 10,
+   "forest land without trees": 3,
+   "perennial crops": 17,
+   "annual crops": 5,
+   "other": 6
+  },
+  "annual crops": {
+   "natural forest": 1,
+   "planted forest": 1,
+   "forest land without trees": 0,
+   "perennial crops": 0,
+   "annual crops": 0,
+   "other": 0
+  },
+  "other": {
+   "natural forest": 96,
+   "planted forest": 14,
+   "forest land without trees": 24,
+   "perennial crops": 47,
+   "annual crops": 42,
+   "other": 201
+  }
+ },
+ "agriculture, all": {
+  "n": 1198,
+  "accuracy": 0.8547579298831386,
+  "sensitivity": 0.046511627906976744,
+  "specificity": 0.9902534113060428,
+  "mean f (area-weighted)": 0.10894991218692728,
+  "mean y (area-weighted)": 0.0910381742957911
+ },
+ "agriculture, record forest": {
+  "n": 798,
+  "accuracy": 0.8508771929824561,
+  "sensitivity": 0.02586206896551724,
+  "specificity": 0.9912023460410557,
+  "mean f (area-weighted)": 0.08789861066721906,
+  "mean y (area-weighted)": 0.061262077504615944
+ }
+}

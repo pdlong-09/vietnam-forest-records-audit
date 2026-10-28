@@ -1,0 +1,81 @@
+predictor,domain,n_phase2,method,est,lo,hi,width_vs_human,lambda
+AV,all record forest,798,lambda 0,0.0612777810265946,0.043410868710398134,0.07914469334279106,0.9959422371321349,
+AV,all record forest,798,PPI++,0.05901771146093892,0.04169060395147882,0.07634481897039902,0.9658522922484659,0.64
+AV,all record forest,798,StratPPI,0.06040681758776017,0.043535195979477255,0.07727843919604307,0.9404624745019868,"{""natural|other"": 0.76, ""natural|production"": 1.0, ""natural|protection"": 0.01, ""natural|special"": 0.0, ""planted|other"": 0.05, ""planted|production"": 0.43, ""planted|protection"": 0.6, ""planted|special"": 0.6}"
+AV,all record forest,798,human,0.0612620775046159,0.04332237010989277,0.07920178489933904,1.0,
+AV,ban_quan_ly_kiem_lam,118,lambda 0,0.04317024964554401,0.02075300108018081,0.0655874982109072,0.6767130012371998,
+AV,ban_quan_ly_kiem_lam,118,PPI++,0.054677900041446244,0.036034450079952526,0.07332135000293996,0.5627927504159148,0.82
+AV,ban_quan_ly_kiem_lam,118,StratPPI,0.042577342365919105,0.025550303798677475,0.059604380933160735,0.5139978859324814,"{""natural|other"": 0.43, ""natural|production"": 0.02, ""natural|protection"": 0.1, ""natural|special"": 0.01, ""planted|other"": 1.0, ""planted|production"": 1.0, ""planted|protection"": 0.48, ""planted|special"": 0.45}"
+AV,ban_quan_ly_kiem_lam,118,human,0.05708191668848824,0.023955246261913185,0.0902085871150633,1.0,
+AV,cong_dong,37,lambda 0,0.009478906165778343,-0.006576434619354797,0.025534246950911485,1.1963511077790956,
+AV,cong_dong,37,PPI++,0.008993051007608334,-0.007047052260615956,0.025033154275832623,1.1952156961750902,0.02
+AV,cong_dong,37,StratPPI,0.010647694384267773,-0.003697328600059528,0.024992717368595076,1.0689081202379622,"{""natural|other"": 0.53, ""natural|production"": 0.0, ""natural|protection"": 0.01, ""natural|special"": 0.21, ""planted|other"": 1.0, ""planted|production"": 0.0, ""planted|protection"": 0.02, ""planted|special"": 0.07}"
+AV,cong_dong,37,human,0.007693171895043905,-0.005727086322410543,0.021113430112498353,1.0,
+AV,doanh_nghiep,49,lambda 0,0.1073802943714557,0.03612291244680506,0.17863767629610633,0.8418726911167632,
+AV,doanh_nghiep,49,PPI++,0.09906528383224443,0.034945516702781454,0.1631850509617074,0.7575451054901471,0.84
+AV,doanh_nghiep,49,StratPPI,0.10566614488836432,0.04725976191633455,0.16407252786039409,0.6900441397503684,"{""natural|other"": 0.32, ""natural|production"": 0.03, ""natural|protection"": 0.0, ""natural|special"": 1.0, ""planted|other"": 1.0, ""planted|production"": 1.0, ""planted|protection"": 0.21, ""planted|special"": 0.25}"
+AV,doanh_nghiep,49,human,0.12145148057848947,0.036809963308074026,0.2060929978489049,1.0,
+AV,ho_gia_dinh_ca_nhan_khac,178,lambda 0,0.059725077521201965,0.027971205523702275,0.09147894951870165,1.2516919477260737,
+AV,ho_gia_dinh_ca_nhan_khac,178,PPI++,0.052485788188767674,0.02233542300610936,0.08263615337142599,1.1884840161573227,0.42
+AV,ho_gia_dinh_ca_nhan_khac,178,StratPPI,0.05289720111491721,0.023622250150491,0.08217215207934342,1.1539764471914873,"{""natural|other"": 0.56, ""natural|production"": 0.06, ""natural|protection"": 0.02, ""natural|special"": 0.46, ""planted|other"": 0.44, ""planted|production"": 0.69, ""planted|protection"": 0.32, ""planted|special"": 1.0}"
+AV,ho_gia_dinh_ca_nhan_khac,178,human,0.046351497186921,0.020982737680888878,0.07172025669295312,1.0,
+AV,khong_ro,100,lambda 0,0.02251305144793707,0.004186299809611233,0.04083980308626291,0.9231077811221002,
+AV,khong_ro,100,PPI++,0.0330423786225577,0.01550959615090208,0.05057516109421331,0.8831160177049765,0.4
+AV,khong_ro,100,StratPPI,0.03091017627291749,0.014461469293511279,0.04735888325232371,0.8285117680284304,"{""natural|other"": 0.02, ""natural|production"": 0.04, ""natural|protection"": 0.03, ""natural|special"": 0.02, ""planted|other"": 1.0, ""planted|production"": 0.28, ""planted|protection"": 1.0, ""planted|special"": 1.0}"
+AV,khong_ro,100,human,0.023136806111732938,0.0032834888576540842,0.04299012336581179,1.0,
+AV,luc_luong_vu_trang,7,lambda 0,0.13797885403909896,-0.09834747463985818,0.37430518271805613,0.7067520249962608,
+AV,luc_luong_vu_trang,7,PPI++,0.12463480375865983,-0.06505855334506778,0.31432816086238746,0.567292544215518,0.67
+AV,luc_luong_vu_trang,7,StratPPI,0.12301506611924579,-0.022224276337069138,0.2682544085755607,0.4343494013719086,"{""natural|other"": 1.0, ""natural|production"": 0.02, ""natural|protection"": 0.96, ""natural|special"": 0.27, ""planted|other"": 1.0, ""planted|production"": 0.24, ""planted|protection"": 0.32, ""planted|special"": 0.0}"
+AV,luc_luong_vu_trang,7,human,0.21148693860790369,-0.12289672117744677,0.5458705983932541,1.0,
+AV,to_chuc_khac,13,lambda 0,0.020564205481700695,-0.010546320140373208,0.0516747311037746,0.958231287969647,
+AV,to_chuc_khac,13,PPI++,0.019927207053630318,-0.011136520058003151,0.05099093416526379,0.9567898530842595,0.01
+AV,to_chuc_khac,13,StratPPI,0.020866349260681212,-0.0022210485354687837,0.04395374705683121,0.711111962389198,"{""natural|other"": 1.0, ""natural|production"": 0.0, ""natural|protection"": 0.13, ""natural|special"": 0.26, ""planted|other"": 0.02, ""planted|production"": 0.0, ""planted|protection"": 0.07, ""planted|special"": 0.0}"
+AV,to_chuc_khac,13,human,0.01835344382911129,-0.014113170455622194,0.050820058113844775,1.0,
+AV,ubnd_xa,155,lambda 0,0.1154808181304911,0.0464303246826587,0.1845313115783235,0.9632260883505366,
+AV,ubnd_xa,155,PPI++,0.10983645989129615,0.04717184764718442,0.17250107213540788,0.8741456623405733,1.0
+AV,ubnd_xa,155,StratPPI,0.11498993050409277,0.05336986678633827,0.17660999422184728,0.8595746384289844,"{""natural|other"": 0.78, ""natural|production"": 1.0, ""natural|protection"": 0.04, ""natural|special"": 0.52, ""planted|other"": 0.73, ""planted|production"": 0.67, ""planted|protection"": 0.78, ""planted|special"": 0.09}"
+AV,ubnd_xa,155,human,0.12046880325234369,0.04878210966820605,0.1921554968364813,1.0,
+AV,vuon_quoc_gia_khu_bao_ton,141,lambda 0,0.042624257197554985,-0.03276646799079862,0.11801498238590859,0.9252398919692528,
+AV,vuon_quoc_gia_khu_bao_ton,141,PPI++,0.03399318326210697,-0.03293734693457033,0.10092371345878427,0.821411339046053,1.0
+AV,vuon_quoc_gia_khu_bao_ton,141,StratPPI,0.03928532245287772,-0.024910541278930984,0.10348118618468642,0.7878498830684704,"{""natural|other"": 0.01, ""natural|production"": 1.0, ""natural|protection"": 0.75, ""natural|special"": 0.01, ""planted|other"": 0.09, ""planted|production"": 0.13, ""planted|protection"": 0.17, ""planted|special"": 0.83}"
+AV,vuon_quoc_gia_khu_bao_ton,141,human,0.048158724174276926,-0.03332363066441711,0.12964107901297095,1.0,
+H (high-confidence training),all record forest,798,lambda 0,0.0612777810265946,0.043410868710398134,0.07914469334279106,0.9959422371321349,
+H (high-confidence training),all record forest,798,PPI++,0.05964860370504091,0.042127831533372996,0.07716937587670883,0.9766475999949448,0.54
+H (high-confidence training),all record forest,798,StratPPI,0.06090786697818521,0.043742016180666046,0.07807371777570438,0.9568634771918523,"{""natural|other"": 0.56, ""natural|production"": 1.0, ""natural|protection"": 0.0, ""natural|special"": 0.0, ""planted|other"": 0.3, ""planted|production"": 0.59, ""planted|protection"": 0.68, ""planted|special"": 0.95}"
+H (high-confidence training),all record forest,798,human,0.0612620775046159,0.04332237010989277,0.07920178489933904,1.0,
+H (high-confidence training),ban_quan_ly_kiem_lam,118,lambda 0,0.04317024964554401,0.02075300108018081,0.0655874982109072,0.6767130012371998,
+H (high-confidence training),ban_quan_ly_kiem_lam,118,PPI++,0.052741546238776395,0.033286220833660785,0.072196871643892,0.5873009618711349,0.84
+H (high-confidence training),ban_quan_ly_kiem_lam,118,StratPPI,0.042281999804755555,0.024939316834924948,0.05962468277458616,0.5235262930595604,"{""natural|other"": 0.29, ""natural|production"": 0.02, ""natural|protection"": 0.05, ""natural|special"": 0.02, ""planted|other"": 1.0, ""planted|production"": 1.0, ""planted|protection"": 0.52, ""planted|special"": 1.0}"
+H (high-confidence training),ban_quan_ly_kiem_lam,118,human,0.05708191668848824,0.023955246261913185,0.0902085871150633,1.0,
+H (high-confidence training),cong_dong,37,lambda 0,0.009478906165778343,-0.006576434619354797,0.025534246950911485,1.1963511077790956,
+H (high-confidence training),cong_dong,37,PPI++,0.009197682980448742,-0.006837655107308067,0.02523302106820555,1.1948606224954135,0.02
+H (high-confidence training),cong_dong,37,StratPPI,0.010285641074759773,-0.004290926182306422,0.024862208331825966,1.086161459852378,"{""natural|other"": 0.58, ""natural|production"": 0.0, ""natural|protection"": 0.01, ""natural|special"": 0.22, ""planted|other"": 1.0, ""planted|production"": 0.0, ""planted|protection"": 0.02, ""planted|special"": 0.11}"
+H (high-confidence training),cong_dong,37,human,0.007693171895043905,-0.005727086322410543,0.021113430112498353,1.0,
+H (high-confidence training),doanh_nghiep,49,lambda 0,0.1073802943714557,0.03612291244680506,0.17863767629610633,0.8418726911167632,
+H (high-confidence training),doanh_nghiep,49,PPI++,0.10303584340534032,0.03579088255612542,0.17028080425455522,0.7944678098618971,0.6
+H (high-confidence training),doanh_nghiep,49,StratPPI,0.10893046393158154,0.047901531511451614,0.16995939635171148,0.7210283367812599,"{""natural|other"": 0.25, ""natural|production"": 0.04, ""natural|protection"": 0.0, ""natural|special"": 1.0, ""planted|other"": 1.0, ""planted|production"": 1.0, ""planted|protection"": 0.16, ""planted|special"": 0.44}"
+H (high-confidence training),doanh_nghiep,49,human,0.12145148057848947,0.036809963308074026,0.2060929978489049,1.0,
+H (high-confidence training),ho_gia_dinh_ca_nhan_khac,178,lambda 0,0.059725077521201965,0.027971205523702275,0.09147894951870165,1.2516919477260737,
+H (high-confidence training),ho_gia_dinh_ca_nhan_khac,178,PPI++,0.049869897871939815,0.020326635078192146,0.07941316066568749,1.164552913465199,0.58
+H (high-confidence training),ho_gia_dinh_ca_nhan_khac,178,StratPPI,0.050112416900413,0.021303087805729513,0.07892174599509649,1.1356223030074954,"{""natural|other"": 0.56, ""natural|production"": 0.06, ""natural|protection"": 0.02, ""natural|special"": 0.31, ""planted|other"": 0.83, ""planted|production"": 0.78, ""planted|protection"": 0.37, ""planted|special"": 1.0}"
+H (high-confidence training),ho_gia_dinh_ca_nhan_khac,178,human,0.046351497186921,0.020982737680888878,0.07172025669295312,1.0,
+H (high-confidence training),khong_ro,100,lambda 0,0.02251305144793707,0.004186299809611233,0.04083980308626291,0.9231077811221002,
+H (high-confidence training),khong_ro,100,PPI++,0.035806079181822964,0.018363326647059388,0.05324883171658654,0.8785812623419381,0.46
+H (high-confidence training),khong_ro,100,StratPPI,0.0312816644271248,0.014793744245352115,0.04776958460889749,0.8304869141395125,"{""natural|other"": 0.01, ""natural|production"": 0.07, ""natural|protection"": 0.03, ""natural|special"": 0.03, ""planted|other"": 1.0, ""planted|production"": 0.32, ""planted|protection"": 1.0, ""planted|special"": 1.0}"
+H (high-confidence training),khong_ro,100,human,0.023136806111732938,0.0032834888576540842,0.04299012336581179,1.0,
+H (high-confidence training),luc_luong_vu_trang,7,lambda 0,0.13797885403909896,-0.09834747463985818,0.37430518271805613,0.7067520249962608,
+H (high-confidence training),luc_luong_vu_trang,7,PPI++,0.08750203424302418,-0.11236246004420948,0.28736652853025785,0.5977101106421644,0.42
+H (high-confidence training),luc_luong_vu_trang,7,StratPPI,0.07924512942667437,-0.05331979718885359,0.21181005604220232,0.3964455879830517,"{""natural|other"": 0.95, ""natural|production"": 0.01, ""natural|protection"": 1.0, ""natural|special"": 0.25, ""planted|other"": 1.0, ""planted|production"": 0.19, ""planted|protection"": 0.25, ""planted|special"": 0.0}"
+H (high-confidence training),luc_luong_vu_trang,7,human,0.21148693860790369,-0.12289672117744677,0.5458705983932541,1.0,
+H (high-confidence training),to_chuc_khac,13,lambda 0,0.020564205481700695,-0.010546320140373208,0.0516747311037746,0.958231287969647,
+H (high-confidence training),to_chuc_khac,13,PPI++,0.019969620462240555,-0.011074412716463082,0.05101365364094419,0.9561832627956289,0.02
+H (high-confidence training),to_chuc_khac,13,StratPPI,0.022736883940248694,-0.0028982993833323346,0.04837206726382973,0.789585975881546,"{""natural|other"": 1.0, ""natural|production"": 0.0, ""natural|protection"": 0.16, ""natural|special"": 0.52, ""planted|other"": 0.03, ""planted|production"": 0.0, ""planted|protection"": 0.09, ""planted|special"": 0.0}"
+H (high-confidence training),to_chuc_khac,13,human,0.01835344382911129,-0.014113170455622194,0.050820058113844775,1.0,
+H (high-confidence training),ubnd_xa,155,lambda 0,0.1154808181304911,0.0464303246826587,0.1845313115783235,0.9632260883505366,
+H (high-confidence training),ubnd_xa,155,PPI++,0.11069467858746052,0.045908581467188514,0.17548077570773252,0.9037395070290624,1.0
+H (high-confidence training),ubnd_xa,155,StratPPI,0.11314277022903187,0.04877371442312481,0.17751182603493892,0.8979219515872638,"{""natural|other"": 1.0, ""natural|production"": 1.0, ""natural|protection"": 0.06, ""natural|special"": 0.25, ""planted|other"": 0.79, ""planted|production"": 0.82, ""planted|protection"": 1.0, ""planted|special"": 0.08}"
+H (high-confidence training),ubnd_xa,155,human,0.12046880325234369,0.04878210966820605,0.1921554968364813,1.0,
+H (high-confidence training),vuon_quoc_gia_khu_bao_ton,141,lambda 0,0.042624257197554985,-0.03276646799079862,0.11801498238590859,0.9252398919692528,
+H (high-confidence training),vuon_quoc_gia_khu_bao_ton,141,PPI++,0.030994899727437276,-0.04023156186247306,0.1022213613173476,0.8741335683156591,0.95
+H (high-confidence training),vuon_quoc_gia_khu_bao_ton,141,StratPPI,0.040514783700717684,-0.026395148024607594,0.10742471542604295,0.8211585423345097,"{""natural|other"": 0.01, ""natural|production"": 1.0, ""natural|protection"": 0.63, ""natural|special"": 0.0, ""planted|other"": 0.05, ""planted|production"": 0.15, ""planted|protection"": 0.18, ""planted|special"": 1.0}"
+H (high-confidence training),vuon_quoc_gia_khu_bao_ton,141,human,0.048158724174276926,-0.03332363066441711,0.12964107901297095,1.0,

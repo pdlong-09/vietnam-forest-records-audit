@@ -1,0 +1,1635 @@
+point_id,interpreter,round,f1_forest_2020,f2_type_2020,f3_landuse_2020,f4_confidence,f4b_reason,f5_issue,f6_patch,f7_landuse_latest
+HC01,A1,calibration,forest,natural,R1,low,boundary or misregistration,mixed land use,>0.5 ha,R1
+HC02,A1,calibration,nonforest,owl,K1,low,canopy cover,sparse trees,>0.5 ha,K2
+HC03,A1,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC04,A1,calibration,forest,natural,R1,low,land use,mixed land use,>0.5 ha,R1
+HC05,A1,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC06,A1,calibration,nonforest,agri_trees,N7,low,boundary or misregistration; land use,none,>0.5 ha,N7
+HC07,A1,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC08,A1,calibration,forest,planted,R3,high,,none,>0.5 ha,R3
+HC09,A1,calibration,nonforest,agri_trees,N10,high,,no imagery close to 2020,>0.5 ha,N10
+HC10,A1,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC11,A1,calibration,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+HC12,A1,calibration,nonforest,no_trees,K1,low,change close to 2020; height,sparse trees,0.3-0.5 ha,K1
+HC13,A1,calibration,nonforest,tof,K1,low,boundary or misregistration; height; canopy cover,sparse trees,>0.5 ha,K1
+HC14,A1,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC15,A1,calibration,nonforest,owl,K1,low,height; change close to 2020,sparse trees,>0.5 ha,K1
+HC16,A1,calibration,nonforest,no_trees,K3,low,change close to 2020; boundary or misregistration,no imagery close to 2020; clouds,<0.3 ha,K3
+HC17,A1,calibration,forest,planted,R3,low,boundary or misregistration; land use,mixed land use,0.3-0.5 ha,R3
+HC18,A1,calibration,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+HC19,A1,calibration,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+HC20,A1,calibration,forest,natural,R1,high,,none,<0.3 ha,R1
+HC21,A1,calibration,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+HC22,A1,calibration,forest,planted,R3,high,,no imagery close to 2020,>0.5 ha,R3
+HC23,A1,calibration,nonforest,no_trees,K2,low,boundary or misregistration; change close to 2020,no imagery close to 2020,<0.3 ha,K4
+HC24,A1,calibration,nonforest,agri_trees,N4,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+HC25,A1,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+B0001,A1,first,nonforest,agri_trees,N8,high,,no imagery close to 2020,>0.5 ha,N8
+B0005,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0009,A1,first,forest,natural,R1,low,boundary or misregistration,mixed land use,>0.5 ha,R1
+B0013,A1,first,nonforest,owl,N9,low,land use,mixed land use,0.3-0.5 ha,N9
+B0017,A1,first,forest,planted,R4,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0021,A1,first,forest,planted,R4,low,height,will regenerate,>0.5 ha,R3
+B0025,A1,first,forest,planted,R4,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0029,A1,first,forest,natural,R1,low,boundary or misregistration,clouds,>0.5 ha,R1
+B0033,A1,first,forest,planted,R3,high,,none,>0.5 ha,R5
+B0037,A1,first,forest,planted,R4,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0041,A1,first,nonforest,owl,K1,low,canopy cover,sparse trees,>0.5 ha,K1
+B0045,A1,first,forest,natural,R1,low,height,no imagery close to 2020,>0.5 ha,R1
+B0047,A1,first,forest,planted,R3,low,other,mixed land use,>0.5 ha,R3
+B0049,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0053,A1,first,nonforest,agri_trees,N3,low,land use,no imagery close to 2020,>0.5 ha,K2
+B0057,A1,first,nonforest,agri_trees,N9,high,,no imagery close to 2020,>0.5 ha,N9
+B0059,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0061,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0064,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0065,A1,first,nonforest,owl,K1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0069,A1,first,nonforest,owl,K1,low,change close to 2020,sparse trees,>0.5 ha,K1
+B0073,A1,first,forest,natural,R1,low,height,none,>0.5 ha,R1
+B0074,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0077,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0079,A1,first,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R1
+B0081,A1,first,nonforest,owl,K1,low,land use; height,sparse trees; no imagery close to 2020,<0.3 ha,K1
+B0085,A1,first,forest,natural,R1,low,canopy cover,clouds,>0.5 ha,R1
+B0089,A1,first,nonforest,no_trees,K1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0093,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0097,A1,first,nonforest,owl,K1,low,height; change close to 2020,sparse trees,0.3-0.5 ha,K1
+B0101,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0105,A1,first,forest,planted,R3,low,change close to 2020,will regenerate,>0.5 ha,R5
+B0106,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0109,A1,first,nonforest,agri_trees,N8,low,land use,none,>0.5 ha,N8
+B0113,A1,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0117,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0121,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0123,A1,first,nonforest,no_trees,N9,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B0125,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0126,A1,first,forest,planted,R3,low,height,none,>0.5 ha,R3
+B0129,A1,first,nonforest,no_trees,K2,low,land use,mixed land use,>0.5 ha,K2
+B0132,A1,first,forest,natural,R1,low,height,sparse trees,>0.5 ha,R1
+B0133,A1,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0137,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0141,A1,first,nonforest,agri_trees,N8,low,land use,mixed land use,0.3-0.5 ha,N8
+B0145,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0149,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0150,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0153,A1,first,forest,natural,R1,low,height; change close to 2020,sparse trees,>0.5 ha,R6
+B0157,A1,first,nonforest,agri_trees,N3,low,change close to 2020,sparse trees,>0.5 ha,N3
+B0161,A1,first,forest,natural,R6,low,height,sparse trees,>0.5 ha,K1
+B0163,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0165,A1,first,forest,natural,R1,low,canopy cover; change close to 2020,no imagery close to 2020,<0.3 ha,R1
+B0169,A1,first,nonforest,nonforest_in_forest,K1,low,height,sparse trees,>0.5 ha,K1
+B0173,A1,first,forest,natural,R6,low,height; land use,sparse trees,>0.5 ha,R6
+B0177,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0181,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0185,A1,first,forest,natural,R1,low,change close to 2020; height,sparse trees; other,>0.5 ha,N9
+B0186,A1,first,nonforest,agri_trees,N1,high,,none,>0.5 ha,N1
+B0189,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0193,A1,first,nonforest,agri_trees,N8,low,land use,mixed land use,<0.3 ha,N8
+B0197,A1,first,nonforest,agri_trees,N9,high,,none,0.3-0.5 ha,N9
+B0198,A1,first,forest,natural,R1,high,,clouds,>0.5 ha,R1
+B0201,A1,first,nonforest,no_trees,K2,low,land use; change close to 2020,no imagery close to 2020,0.3-0.5 ha,K2
+B0202,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0205,A1,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B0209,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0213,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0217,A1,first,nonforest,no_trees,K1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0221,A1,first,forest,natural,R5,low,change close to 2020; height,will regenerate,>0.5 ha,R5
+B0225,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0226,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0229,A1,first,forest,natural,R1,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,R1
+B0233,A1,first,forest,natural,R1,low,height; change close to 2020,sparse trees,>0.5 ha,K1
+B0237,A1,first,forest,natural,R5,low,change close to 2020; land use,will regenerate,<0.3 ha,K1
+B0241,A1,first,nonforest,agri_trees,N4,low,land use; change close to 2020,sparse trees; no imagery close to 2020,>0.5 ha,N4
+B0245,A1,first,forest,planted,R3,low,height; change close to 2020,sparse trees,>0.5 ha,R3
+B0249,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0253,A1,first,nonforest,agri_trees,N7,low,land use; change close to 2020,no imagery close to 2020,>0.5 ha,N7
+B0257,A1,first,nonforest,owl,K1,low,height,none,>0.5 ha,K1
+B0261,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0265,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0269,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0273,A1,first,nonforest,owl,K1,low,height; canopy cover,none,>0.5 ha,K1
+B0277,A1,first,forest,natural,R1,low,height; boundary or misregistration,no imagery close to 2020,>0.5 ha,R1
+B0281,A1,first,forest,natural,R6,low,height; change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R6
+B0282,A1,first,unknown,,R1,low,land use,no imagery close to 2020,<0.3 ha,R1
+B0284,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0285,A1,first,forest,planted,R3,low,other,no imagery close to 2020,>0.5 ha,R3
+B0289,A1,first,nonforest,no_trees,K1,high,,none,<0.3 ha,K1
+B0293,A1,first,nonforest,no_trees,K2,high,,no imagery close to 2020,>0.5 ha,K2
+B0297,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0301,A1,first,forest,natural,R5,low,change close to 2020,will regenerate; no imagery close to 2020,>0.5 ha,K1
+B0302,A1,first,nonforest,no_trees,K2,low,land use; change close to 2020,sparse trees,>0.5 ha,K2
+B0305,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0309,A1,first,forest,planted,R3,low,change close to 2020; height,sparse trees,>0.5 ha,R3
+B0313,A1,first,forest,natural,R6,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R6
+B0317,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0321,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0325,A1,first,nonforest,agri_trees,N9,low,change close to 2020; land use,no imagery close to 2020; mixed land use,>0.5 ha,N9
+B0329,A1,first,forest,natural,R1,low,height; change close to 2020,sparse trees,>0.5 ha,R1
+B0333,A1,first,forest,natural,R6,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R6
+B0337,A1,first,nonforest,agri_trees,N9,low,other,no imagery close to 2020,>0.5 ha,N9
+B0341,A1,first,forest,natural,R1,low,other,clouds,>0.5 ha,R1
+B0342,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0345,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0348,A1,first,nonforest,no_trees,K1,low,boundary or misregistration; height,sparse trees,>0.5 ha,K1
+B0349,A1,first,forest,natural,R1,low,height,none,>0.5 ha,R1
+B0353,A1,first,nonforest,agri_trees,N6,low,other,no imagery close to 2020,>0.5 ha,N6
+B0357,A1,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0361,A1,first,nonforest,owl,K1,low,change close to 2020; height,no imagery close to 2020; sparse trees,0.3-0.5 ha,R1
+B0365,A1,first,nonforest,owl,K1,low,height; land use,none,>0.5 ha,K1
+B0369,A1,first,nonforest,agri_trees,N4,low,land use,none,>0.5 ha,N4
+B0370,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0373,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0377,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0381,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0385,A1,first,nonforest,owl,K1,low,land use,sparse trees,>0.5 ha,K1
+B0389,A1,first,nonforest,no_trees,K1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,K1
+B0390,A1,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B0392,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0393,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0397,A1,first,forest,natural,R1,low,height; land use,sparse trees,>0.5 ha,R1
+B0401,A1,first,forest,planted,R3,low,other,no imagery close to 2020,>0.5 ha,R3
+B0402,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0405,A1,first,forest,natural,R1,low,boundary or misregistration,mixed land use,>0.5 ha,K2
+B0409,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0413,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0415,A1,first,unknown,,K6,low,change close to 2020,clouds; no imagery close to 2020,>0.5 ha,K6
+B0417,A1,first,nonforest,no_trees,K2,low,change close to 2020,low resolution only; sparse trees,>0.5 ha,K1
+B0421,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0425,A1,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0429,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0433,A1,first,nonforest,nonforest_in_forest,K1,low,canopy cover,clouds,>0.5 ha,K1
+B0437,A1,first,forest,natural,R1,low,height; canopy cover,sparse trees,<0.3 ha,R1
+B0441,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0445,A1,first,nonforest,agri_trees,N4,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N4
+B0449,A1,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0453,A1,first,nonforest,agri_trees,N8,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N8
+B0457,A1,first,nonforest,agri_trees,K3,high,,mixed land use,<0.3 ha,K3
+B0461,A1,first,forest,natural,R1,high,,sparse trees,>0.5 ha,R1
+B0465,A1,first,forest,natural,R6,low,height; change close to 2020,will regenerate,>0.5 ha,R6
+B0468,A1,first,forest,planted,R3,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R3
+B0469,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0473,A1,first,nonforest,agri_trees,N4,low,land use,sparse trees,0.3-0.5 ha,N4
+B0477,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0481,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0485,A1,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B0488,A1,first,forest,natural,R1,low,other,clouds; no imagery close to 2020,>0.5 ha,R1
+B0489,A1,first,forest,natural,R6,low,height; change close to 2020,will regenerate,>0.5 ha,R6
+B0493,A1,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0495,A1,first,nonforest,owl,K1,low,height,no imagery close to 2020,>0.5 ha,K1
+B0497,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0501,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0505,A1,first,forest,planted,R3,low,change close to 2020,none; low resolution only,>0.5 ha,R3
+B0506,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0508,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0509,A1,first,forest,planted,R3,high,,no imagery close to 2020,>0.5 ha,R3
+B0513,A1,first,nonforest,agri_trees,N1,low,land use,sparse trees,>0.5 ha,N1
+B0517,A1,first,nonforest,no_trees,K1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0521,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0525,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0529,A1,first,nonforest,owl,K1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B0533,A1,first,nonforest,tof,K1,low,height; canopy cover,sparse trees,<0.3 ha,K1
+B0537,A1,first,nonforest,agri_trees,N1,high,,none,>0.5 ha,N1
+B0539,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0541,A1,first,nonforest,agri_trees,N8,low,land use; change close to 2020,no imagery close to 2020; mixed land use,<0.3 ha,N8
+B0545,A1,first,nonforest,agri_trees,N8,low,land use,mixed land use,>0.5 ha,N8
+B0549,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0553,A1,first,nonforest,agri_trees,N9,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,K1
+B0557,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0561,A1,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B0565,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0569,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0573,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0577,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0581,A1,first,forest,natural,R1,low,change close to 2020; land use,other,>0.5 ha,K1
+B0585,A1,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0589,A1,first,forest,planted,R3,low,change close to 2020; other,no imagery close to 2020,>0.5 ha,R3
+B0593,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0597,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0601,A1,first,forest,natural,R1,high,,no imagery close to 2020; clouds,>0.5 ha,R1
+B0605,A1,first,forest,planted,R5,low,change close to 2020; land use,will regenerate,>0.5 ha,R4
+B0608,A1,first,unknown,,K6,low,other,no imagery close to 2020,<0.3 ha,K6
+B0609,A1,first,nonforest,agri_trees,N10,high,,none,>0.5 ha,N7
+B0613,A1,first,forest,natural,R1,low,change close to 2020,clouds,>0.5 ha,R1
+B0617,A1,first,nonforest,no_trees,K1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B0621,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0625,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0629,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0633,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0637,A1,first,nonforest,owl,K1,low,height,no imagery close to 2020,>0.5 ha,K1
+B0641,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0645,A1,first,nonforest,owl,K1,low,height,clouds,>0.5 ha,K1
+B0649,A1,first,nonforest,no_trees,K4,high,,none,<0.3 ha,K4
+B0653,A1,first,forest,natural,R1,low,height,sparse trees,>0.5 ha,R1
+B0657,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0661,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0665,A1,first,nonforest,agri_trees,N2,high,,none,>0.5 ha,N2
+B0669,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0670,A1,first,forest,natural,R1,low,boundary or misregistration,mixed land use,>0.5 ha,R1
+B0673,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0677,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0681,A1,first,nonforest,owl,K1,low,change close to 2020,no imagery close to 2020; sparse trees,<0.3 ha,K1
+B0685,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0689,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0693,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020; other,>0.5 ha,K1
+B0697,A1,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B0701,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0705,A1,first,nonforest,no_trees,K4,low,other,clouds,>0.5 ha,K4
+B0706,A1,first,forest,natural,R6,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R6
+B0709,A1,first,nonforest,owl,K1,low,change close to 2020; height,none,<0.3 ha,K1
+B0713,A1,first,forest,planted,R5,low,change close to 2020; land use,will regenerate,>0.5 ha,R5
+B0717,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0721,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0725,A1,first,nonforest,owl,K1,low,height,no imagery close to 2020,>0.5 ha,K1
+B0729,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0733,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0737,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0741,A1,first,nonforest,agri_trees,N8,low,change close to 2020; land use,no imagery close to 2020,<0.3 ha,N8
+B0745,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0749,A1,first,nonforest,agri_trees,N8,low,land use,mixed land use,>0.5 ha,N8
+B0753,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0757,A1,first,nonforest,agri_trees,N8,low,land use,mixed land use,0.3-0.5 ha,N8
+B0761,A1,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B0764,A1,first,nonforest,agri_trees,N8,low,land use,mixed land use,>0.5 ha,N8
+B0765,A1,first,nonforest,no_trees,K3,high,,none,>0.5 ha,K3
+B0769,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0773,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0777,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0778,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0781,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0785,A1,first,nonforest,owl,K2,low,change close to 2020; land use,no imagery close to 2020,<0.3 ha,K2
+B0789,A1,first,forest,natural,R1,low,height; canopy cover,sparse trees; no imagery close to 2020,>0.5 ha,R1
+B0791,A1,first,forest,natural,R6,low,height; change close to 2020,sparse trees,>0.5 ha,R1
+B0793,A1,first,nonforest,no_trees,K1,low,boundary or misregistration; canopy cover,sparse trees,0.3-0.5 ha,K1
+B0797,A1,first,forest,natural,R1,high,,none,>0.5 ha,K2
+B0801,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0805,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0809,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020; mixed land use,>0.5 ha,R1
+B0813,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0817,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0821,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0823,A1,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,K2
+B0825,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0829,A1,first,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R1
+B0833,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0837,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0841,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0845,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0847,A1,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,K1
+B0849,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0853,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0857,A1,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0861,A1,first,nonforest,agri_trees,N10,low,land use; change close to 2020,mixed land use,<0.3 ha,N10
+B0865,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0869,A1,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0873,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0876,A1,first,nonforest,no_trees,K1,low,land use,mixed land use,<0.3 ha,K1
+B0877,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0881,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0885,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0889,A1,first,nonforest,no_trees,K2,low,boundary or misregistration; land use,no imagery close to 2020,0.3-0.5 ha,K2
+B0893,A1,first,forest,natural,R1,low,other,clouds,>0.5 ha,R1
+B0897,A1,first,nonforest,no_trees,K2,low,change close to 2020; land use,no imagery close to 2020,0.3-0.5 ha,K2
+B0901,A1,first,nonforest,tof,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B0905,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0907,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0909,A1,first,nonforest,agri_trees,N8,low,land use; canopy cover,sparse trees,>0.5 ha,N8
+B0913,A1,first,nonforest,no_trees,K1,high,,sparse trees,>0.5 ha,K1
+B0917,A1,first,nonforest,owl,K1,high,,none,>0.5 ha,R6
+B0921,A1,first,nonforest,no_trees,K2,low,change close to 2020; land use,sparse trees; other,>0.5 ha,K2
+B0925,A1,first,nonforest,agri_trees,N8,low,change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0929,A1,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0933,A1,first,nonforest,owl,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B0937,A1,first,forest,planted,R3,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0941,A1,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B0942,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0945,A1,first,nonforest,agri_trees,N9,low,change close to 2020,clouds,0.3-0.5 ha,N9
+B0949,A1,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0953,A1,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0957,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0961,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0965,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0969,A1,first,forest,planted,R4,low,height; land use,sparse trees,>0.5 ha,R4
+B0973,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0977,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0981,A1,first,nonforest,agri_trees,N10,low,change close to 2020,no imagery close to 2020,0.3-0.5 ha,N10
+B0985,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0989,A1,first,nonforest,owl,K1,low,boundary or misregistration; change close to 2020,clouds,>0.5 ha,K1
+B0993,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0997,A1,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B1001,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1005,A1,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B1006,A1,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,K2
+B1009,A1,first,forest,planted,R3,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B1013,A1,first,forest,natural,R1,low,canopy cover,sparse trees,>0.5 ha,R1
+B1017,A1,first,nonforest,tof,K1,low,height; boundary or misregistration,sparse trees,>0.5 ha,K1
+B1021,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1025,A1,first,forest,natural,R1,low,canopy cover; boundary or misregistration,clouds,>0.5 ha,R1
+B1029,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1033,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1035,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1037,A1,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B1041,A1,first,nonforest,agri_trees,N2,high,,none,>0.5 ha,N2
+B1045,A1,first,nonforest,agri_trees,N9,low,change close to 2020; land use,no imagery close to 2020; mixed land use,>0.5 ha,N9
+B1049,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1050,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1053,A1,first,forest,natural,R1,high,,none,>0.5 ha,K2
+B1057,A1,first,nonforest,owl,K1,low,canopy cover; height,sparse trees,<0.3 ha,R6
+B1061,A1,first,forest,natural,R6,low,height; change close to 2020,will regenerate; sparse trees,>0.5 ha,R1
+B1065,A1,first,nonforest,owl,K1,low,change close to 2020; height; canopy cover,will regenerate; sparse trees,0.3-0.5 ha,R6
+B1068,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1069,A1,first,nonforest,no_trees,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B1073,A1,first,forest,natural,R1,low,change close to 2020; boundary or misregistration,no imagery close to 2020; mixed land use,>0.5 ha,K1
+B1077,A1,first,forest,natural,R1,low,boundary or misregistration; land use,mixed land use; sparse trees,>0.5 ha,K1
+B1081,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1085,A1,first,nonforest,no_trees,K2,high,,none,>0.5 ha,K1
+B1089,A1,first,forest,natural,R1,low,boundary or misregistration; land use,none,>0.5 ha,R1
+B1093,A1,first,nonforest,no_trees,K1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B1097,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1101,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1105,A1,first,nonforest,agri_trees,N7,high,,none,>0.5 ha,N7
+B1106,A1,first,forest,natural,R1,high,,none,>0.5 ha,K2
+B1109,A1,first,nonforest,agri_trees,N9,low,change close to 2020; land use,will regenerate,>0.5 ha,R1
+B1113,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1117,A1,first,nonforest,owl,K1,high,,no imagery close to 2020,>0.5 ha,K2
+B1121,A1,first,nonforest,owl,K1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R6
+B1125,A1,first,nonforest,no_trees,N10,high,,none,>0.5 ha,N10
+B1129,A1,first,nonforest,nonforest_in_forest,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B1131,A1,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B1133,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1137,A1,first,nonforest,agri_trees,N1,low,land use,none,>0.5 ha,N1
+B1141,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1145,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1149,A1,first,nonforest,no_trees,K6,high,,none,>0.5 ha,K6
+B1153,A1,first,forest,natural,R1,low,other,clouds,>0.5 ha,R1
+B1157,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1161,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1165,A1,first,nonforest,owl,K1,low,change close to 2020; canopy cover; height,no imagery close to 2020; will regenerate,>0.5 ha,R6
+B1169,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1173,A1,first,nonforest,no_trees,K1,low,height; land use,none,>0.5 ha,K1
+B1177,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1181,A1,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,K1
+B1185,A1,first,nonforest,agri_trees,N8,low,land use,no imagery close to 2020,>0.5 ha,N8
+B1189,A1,first,forest,natural,R1,low,boundary or misregistration,none,>0.5 ha,R1
+B1193,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1197,A1,first,forest,natural,R1,high,,none,>0.5 ha,R1
+HC01,A2,calibration,forest,natural,R1,low,boundary or misregistration,mixed land use,>0.5 ha,R1
+HC02,A2,calibration,nonforest,no_trees,K1,low,change close to 2020,sparse trees,0.3-0.5 ha,K1
+HC03,A2,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC04,A2,calibration,forest,natural,R1,low,land use,mixed land use,>0.5 ha,R1
+HC05,A2,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC06,A2,calibration,nonforest,agri_trees,N5,low,land use,none,>0.5 ha,N5
+HC07,A2,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC08,A2,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC09,A2,calibration,nonforest,no_trees,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+HC10,A2,calibration,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+HC11,A2,calibration,nonforest,no_trees,K2,low,change close to 2020; land use,none,0.3-0.5 ha,K2
+HC12,A2,calibration,forest,natural,R6,low,canopy cover; height; change close to 2020,sparse trees,>0.5 ha,R6
+HC13,A2,calibration,nonforest,owl,K1,low,height; canopy cover; change close to 2020,no imagery close to 2020,>0.5 ha,K1
+HC14,A2,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC15,A2,calibration,nonforest,owl,K1,low,canopy cover; change close to 2020,no imagery close to 2020; sparse trees,>0.5 ha,R6
+HC16,A2,calibration,nonforest,nonforest_in_forest,K3,low,boundary or misregistration; other,no imagery close to 2020,<0.3 ha,K3
+HC17,A2,calibration,nonforest,agri_trees,N8,low,land use; boundary or misregistration,mixed land use,>0.5 ha,N8
+HC18,A2,calibration,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+HC19,A2,calibration,forest,natural,R1,low,height; other,clouds; no imagery close to 2020,>0.5 ha,R1
+HC20,A2,calibration,nonforest,no_trees,K2,high,,none,<0.3 ha,K2
+HC21,A2,calibration,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+HC22,A2,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC23,A2,calibration,nonforest,agri_trees,N3,low,land use,no imagery close to 2020,>0.5 ha,K2
+HC24,A2,calibration,nonforest,no_trees,K2,low,land use; other,no imagery close to 2020,<0.3 ha,K2
+HC25,A2,calibration,nonforest,owl,K1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B0002,A2,first,forest,natural,R1,high,,clouds,>0.5 ha,R1
+B0006,A2,first,forest,natural,R2,low,height,no imagery close to 2020,>0.5 ha,R2
+B0010,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0014,A2,first,forest,planted,R4,low,change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R3
+B0017,A2,first,forest,planted,R4,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R3
+B0018,A2,first,forest,planted,R4,low,change close to 2020; land use,no imagery close to 2020; will regenerate,>0.5 ha,R3
+B0022,A2,first,nonforest,owl,K1,low,height,sparse trees; no imagery close to 2020,>0.5 ha,K1
+B0026,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0030,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0034,A2,first,nonforest,owl,K1,low,height,sparse trees,<0.3 ha,K1
+B0038,A2,first,nonforest,owl,K1,low,height,no imagery close to 2020,0.3-0.5 ha,K1
+B0042,A2,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0046,A2,first,nonforest,no_trees,N10,high,,none,>0.5 ha,N10
+B0050,A2,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0054,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0058,A2,first,forest,natural,R1,low,height; other,no imagery close to 2020,>0.5 ha,R1
+B0062,A2,first,nonforest,agri_trees,N8,low,land use; height,none,>0.5 ha,N8
+B0066,A2,first,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R1
+B0067,A2,first,nonforest,owl,K1,low,height; land use; boundary or misregistration,no imagery close to 2020; sparse trees,<0.3 ha,K1
+B0070,A2,first,forest,natural,R1,high,,none,>0.5 ha,K1
+B0074,A2,first,nonforest,agri_trees,N8,high,,none,>0.5 ha,N8
+B0077,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0078,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0082,A2,first,nonforest,agri_trees,N7,low,land use; height,none,>0.5 ha,N7
+B0083,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0085,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0086,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0088,A2,first,nonforest,agri_trees,N4,low,land use; other,no imagery close to 2020,>0.5 ha,N4
+B0090,A2,first,nonforest,agri_trees,N8,low,land use; canopy cover,none,<0.3 ha,N8
+B0094,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0098,A2,first,nonforest,agri_trees,N3,low,boundary or misregistration; land use,none,>0.5 ha,N3
+B0102,A2,first,nonforest,tof,K1,low,canopy cover,sparse trees,>0.5 ha,K1
+B0106,A2,first,nonforest,no_trees,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B0110,A2,first,nonforest,no_trees,K1,low,canopy cover; height,no imagery close to 2020,>0.5 ha,K1
+B0114,A2,first,nonforest,no_trees,N9,high,,none,>0.5 ha,N9
+B0116,A2,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0118,A2,first,forest,natural,R1,low,canopy cover; height,sparse trees,>0.5 ha,K1
+B0122,A2,first,nonforest,tof,K1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B0126,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0130,A2,first,nonforest,tof,K1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B0134,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0138,A2,first,forest,natural,R1,low,land use; other,clouds; no imagery close to 2020,>0.5 ha,R1
+B0142,A2,first,nonforest,agri_trees,N8,low,height; land use; other,no imagery close to 2020,>0.5 ha,N8
+B0146,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0150,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0154,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0158,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0161,A2,first,forest,natural,R6,low,height; canopy cover,none,>0.5 ha,R6
+B0162,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0166,A2,first,nonforest,urban_trees,K3,low,boundary or misregistration; land use,no imagery close to 2020,>0.5 ha,K3
+B0170,A2,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B0174,A2,first,nonforest,no_trees,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B0178,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0182,A2,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R5
+B0186,A2,first,nonforest,agri_trees,N8,high,,none,<0.3 ha,N8
+B0190,A2,first,unknown,,R5,low,land use; change close to 2020,no imagery close to 2020,0.3-0.5 ha,R1
+B0194,A2,first,nonforest,no_trees,K2,low,change close to 2020; land use,no imagery close to 2020; other,>0.5 ha,K2
+B0196,A2,first,forest,natural,R6,low,land use; height,sparse trees,0.3-0.5 ha,R6
+B0198,A2,first,nonforest,agri_trees,N3,high,,clouds,>0.5 ha,N3
+B0202,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0206,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0210,A2,first,forest,planted,R5,low,land use; boundary or misregistration,will regenerate,>0.5 ha,K2
+B0214,A2,first,forest,natural,R6,low,land use; height,none,>0.5 ha,R6
+B0218,A2,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0222,A2,first,nonforest,urban_trees,K3,high,,none,<0.3 ha,K3
+B0224,A2,first,nonforest,no_trees,K1,high,,sparse trees,>0.5 ha,K1
+B0226,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0230,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0234,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0235,A2,first,forest,natural,R1,low,height,sparse trees,>0.5 ha,R1
+B0237,A2,first,nonforest,no_trees,K1,low,change close to 2020,no imagery close to 2020,0.3-0.5 ha,K1
+B0238,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0242,A2,first,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R1
+B0246,A2,first,nonforest,owl,K1,low,height; land use,none,>0.5 ha,K1
+B0250,A2,first,nonforest,owl,K1,high,,sparse trees,>0.5 ha,K1
+B0254,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0256,A2,first,nonforest,tof,K1,low,canopy cover; change close to 2020,no imagery close to 2020,<0.3 ha,N8
+B0258,A2,first,nonforest,nonforest_in_forest,K2,low,change close to 2020; land use,no imagery close to 2020; will regenerate,>0.5 ha,K2
+B0262,A2,first,nonforest,agri_trees,N7,low,land use,sparse trees,>0.5 ha,N7
+B0266,A2,first,forest,natural,R1,low,land use,no imagery close to 2020,>0.5 ha,R1
+B0270,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0274,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0276,A2,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020; low resolution only,>0.5 ha,R1
+B0278,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0282,A2,first,nonforest,agri_trees,N6,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N6
+B0286,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0290,A2,first,nonforest,agri_trees,N6,low,land use,mixed land use,>0.5 ha,N6
+B0294,A2,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B0298,A2,first,unknown,,N8,low,other,clouds; no imagery close to 2020,>0.5 ha,N8
+B0302,A2,first,nonforest,no_trees,K2,low,change close to 2020; land use,none,>0.5 ha,K2
+B0306,A2,first,nonforest,owl,K1,low,height; change close to 2020,sparse trees,>0.5 ha,R1
+B0310,A2,first,forest,natural,R1,low,land use; height,none,>0.5 ha,R1
+B0314,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0318,A2,first,nonforest,no_trees,K4,low,change close to 2020,other,>0.5 ha,R3
+B0322,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0326,A2,first,nonforest,no_trees,N9,low,change close to 2020,no imagery close to 2020,0.3-0.5 ha,K1
+B0330,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0334,A2,first,nonforest,agri_trees,N6,low,land use,mixed land use,>0.5 ha,N6
+B0338,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0340,A2,first,nonforest,agri_trees,N1,low,land use,none,>0.5 ha,N7
+B0342,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0346,A2,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0350,A2,first,nonforest,nonforest_in_forest,K1,low,canopy cover; land use; change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0354,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0358,A2,first,nonforest,owl,K1,high,,none,>0.5 ha,K1
+B0362,A2,first,forest,natural,R1,low,height; land use,none,>0.5 ha,R1
+B0366,A2,first,nonforest,owl,K1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0370,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0374,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0378,A2,first,nonforest,no_trees,K4,high,,none,>0.5 ha,K4
+B0381,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0382,A2,first,forest,planted,R3,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0386,A2,first,nonforest,agri_trees,N1,high,,no imagery close to 2020,>0.5 ha,N1
+B0390,A2,first,forest,natural,R1,low,canopy cover; height; change close to 2020,sparse trees; no imagery close to 2020,>0.5 ha,R1
+B0394,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0398,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0402,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0405,A2,first,forest,natural,R1,low,boundary or misregistration; change close to 2020,mixed land use,>0.5 ha,K2
+B0406,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0410,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0414,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0418,A2,first,nonforest,agri_trees,N2,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N2
+B0419,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0422,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0426,A2,first,forest,planted,R3,low,change close to 2020,will regenerate,>0.5 ha,R3
+B0430,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0434,A2,first,forest,natural,R1,low,other; boundary or misregistration,clouds,>0.5 ha,R1
+B0438,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0439,A2,first,nonforest,no_trees,N9,high,,none,>0.5 ha,N9
+B0442,A2,first,forest,natural,R6,low,height; change close to 2020,will regenerate; mixed land use,>0.5 ha,R1
+B0446,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0450,A2,first,forest,natural,R1,low,boundary or misregistration; height; canopy cover,none,>0.5 ha,R1
+B0454,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0458,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0462,A2,first,nonforest,owl,K1,low,height; land use,sparse trees,<0.3 ha,R6
+B0463,A2,first,nonforest,owl,K1,low,canopy cover; height,sparse trees,>0.5 ha,K1
+B0466,A2,first,forest,natural,R6,low,height; change close to 2020,will regenerate,>0.5 ha,R6
+B0470,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0474,A2,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B0478,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0482,A2,first,forest,natural,R1,low,change close to 2020; other,no imagery close to 2020,>0.5 ha,R1
+B0484,A2,first,nonforest,no_trees,N10,high,,none,>0.5 ha,N10
+B0486,A2,first,nonforest,no_trees,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B0490,A2,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0494,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0498,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0499,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0502,A2,first,forest,natural,R1,low,height; other,no imagery close to 2020,>0.5 ha,R1
+B0504,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0506,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0510,A2,first,nonforest,tof,N8,low,land use; boundary or misregistration; other,no imagery close to 2020; sparse trees,0.3-0.5 ha,N8
+B0514,A2,first,forest,natural,R1,low,boundary or misregistration; canopy cover,none,0.3-0.5 ha,R1
+B0518,A2,first,nonforest,no_trees,K2,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,R1
+B0522,A2,first,forest,natural,R6,low,height; change close to 2020,will regenerate; no imagery close to 2020,>0.5 ha,R6
+B0526,A2,first,nonforest,owl,K1,high,,none,>0.5 ha,K1
+B0530,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0534,A2,first,nonforest,urban_trees,K3,high,,none,>0.5 ha,K3
+B0538,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0542,A2,first,nonforest,owl,K1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R6
+B0546,A2,first,forest,planted,R3,low,change close to 2020,none,>0.5 ha,R4
+B0550,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0554,A2,first,forest,natural,R5,low,change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R1
+B0558,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0562,A2,first,nonforest,no_trees,K1,low,canopy cover; other,no imagery close to 2020,>0.5 ha,K1
+B0566,A2,first,nonforest,owl,K1,low,height; change close to 2020,will regenerate,>0.5 ha,R6
+B0568,A2,first,forest,natural,R6,low,height; other,no imagery close to 2020,>0.5 ha,R6
+B0570,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0574,A2,first,nonforest,no_trees,K3,high,,none,>0.5 ha,K3
+B0578,A2,first,forest,natural,R1,low,boundary or misregistration; canopy cover,none,>0.5 ha,R1
+B0582,A2,first,nonforest,no_trees,K1,low,canopy cover; height,none,>0.5 ha,K1
+B0586,A2,first,nonforest,no_trees,K1,low,change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R6
+B0589,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0590,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0591,A2,first,nonforest,no_trees,N9,high,,none,>0.5 ha,K2
+B0594,A2,first,forest,natural,R1,high,,none,>0.5 ha,N4
+B0597,A2,first,forest,natural,R1,low,land use; boundary or misregistration,sparse trees,>0.5 ha,R1
+B0598,A2,first,forest,natural,R1,low,land use; other,no imagery close to 2020,>0.5 ha,R1
+B0602,A2,first,nonforest,agri_trees,N3,high,,no imagery close to 2020,>0.5 ha,N3
+B0606,A2,first,forest,natural,R6,low,boundary or misregistration; canopy cover,none,>0.5 ha,R1
+B0610,A2,first,nonforest,no_trees,K2,high,,none,>0.5 ha,N4
+B0614,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0616,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0618,A2,first,nonforest,no_trees,K4,low,other,no imagery close to 2020,>0.5 ha,K4
+B0622,A2,first,nonforest,agri_trees,N9,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N10
+B0626,A2,first,forest,natural,R5,low,height; change close to 2020,will regenerate,>0.5 ha,R6
+B0630,A2,first,nonforest,no_trees,K1,low,land use,none; no imagery close to 2020,<0.3 ha,K1
+B0633,A2,first,forest,natural,R1,low,other,clouds; no imagery close to 2020,>0.5 ha,R1
+B0634,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0638,A2,first,forest,planted,R3,low,other,no imagery close to 2020,>0.5 ha,K4
+B0642,A2,first,unknown,,K2,low,change close to 2020; other,no imagery close to 2020; low resolution only; clouds,>0.5 ha,K2
+B0645,A2,first,forest,natural,R1,low,other,no imagery close to 2020; clouds,>0.5 ha,R1
+B0646,A2,first,nonforest,owl,K4,low,canopy cover; boundary or misregistration,will regenerate,<0.3 ha,K4
+B0650,A2,first,unknown,,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B0654,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0658,A2,first,nonforest,owl,K1,low,canopy cover,no imagery close to 2020,>0.5 ha,K1
+B0662,A2,first,nonforest,no_trees,K2,low,land use,no imagery close to 2020,0.3-0.5 ha,K2
+B0666,A2,first,forest,natural,R1,low,change close to 2020; boundary or misregistration,no imagery close to 2020; low resolution only,>0.5 ha,R1
+B0670,A2,first,forest,natural,R1,low,boundary or misregistration; canopy cover,other,>0.5 ha,R1
+B0674,A2,first,forest,natural,R1,low,change close to 2020; other,no imagery close to 2020; low resolution only,>0.5 ha,K2
+B0678,A2,first,nonforest,agri_trees,N3,low,change close to 2020,no imagery close to 2020,>0.5 ha,N3
+B0682,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0683,A2,first,nonforest,nonforest_in_forest,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0686,A2,first,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R5
+B0690,A2,first,forest,natural,R1,low,boundary or misregistration; change close to 2020; other,low resolution only; mixed land use,<0.3 ha,R1
+B0694,A2,first,nonforest,nonforest_in_forest,K2,high,,will regenerate,>0.5 ha,N9
+B0698,A2,first,forest,natural,R1,low,boundary or misregistration; canopy cover,none,>0.5 ha,R1
+B0702,A2,first,forest,natural,R1,low,change close to 2020; other,no imagery close to 2020,>0.5 ha,K2
+B0706,A2,first,unknown,,K2,low,change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,K2
+B0710,A2,first,forest,natural,R1,high,,other,>0.5 ha,R1
+B0713,A2,first,forest,natural,R1,low,change close to 2020; canopy cover,mixed land use,0.3-0.5 ha,R5
+B0714,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0718,A2,first,forest,natural,R1,low,height; change close to 2020,mixed land use,>0.5 ha,R1
+B0722,A2,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B0723,A2,first,forest,planted,R3,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B0726,A2,first,nonforest,owl,K1,low,height; boundary or misregistration,mixed land use,>0.5 ha,K1
+B0730,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0732,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0734,A2,first,forest,natural,R1,low,height,none,>0.5 ha,R1
+B0738,A2,first,nonforest,agri_trees,N8,low,change close to 2020; land use,no imagery close to 2020,<0.3 ha,N10
+B0742,A2,first,forest,natural,R1,high,,other,>0.5 ha,R1
+B0746,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0750,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0754,A2,first,forest,natural,R1,high,,none,>0.5 ha,K2
+B0758,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0762,A2,first,nonforest,no_trees,K1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K5
+B0766,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0770,A2,first,forest,natural,R1,low,height,no imagery close to 2020; low resolution only,>0.5 ha,R1
+B0772,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0774,A2,first,nonforest,owl,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B0778,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0782,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0786,A2,first,unknown,,R5,low,change close to 2020; land use,no imagery close to 2020; low resolution only,>0.5 ha,N9
+B0790,A2,first,unknown,,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0794,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0798,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0802,A2,first,forest,natural,R1,low,canopy cover; change close to 2020,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B0806,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0810,A2,first,forest,natural,R1,low,land use; other,no imagery close to 2020; low resolution only; clouds,>0.5 ha,R1
+B0814,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0818,A2,first,forest,natural,R1,low,height,clouds,>0.5 ha,R1
+B0822,A2,first,unknown,,K2,low,height; canopy cover; other,no imagery close to 2020; will regenerate,>0.5 ha,K2
+B0826,A2,first,nonforest,no_trees,K4,high,,none,>0.5 ha,K4
+B0830,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0834,A2,first,forest,planted,R5,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0838,A2,first,nonforest,tof,K6,low,land use; canopy cover,sparse trees,<0.3 ha,K6
+B0842,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0845,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0846,A2,first,forest,natural,R1,low,change close to 2020,clouds,>0.5 ha,R1
+B0850,A2,first,forest,natural,R1,low,land use; height,sparse trees,>0.5 ha,R1
+B0854,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0858,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0861,A2,first,nonforest,agri_trees,N6,low,change close to 2020; land use,none; mixed land use,>0.5 ha,N6
+B0862,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0866,A2,first,nonforest,agri_trees,N6,high,,none,>0.5 ha,N6
+B0868,A2,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B0870,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0874,A2,first,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+B0878,A2,first,unknown,,R5,low,change close to 2020; canopy cover,no imagery close to 2020; will regenerate,>0.5 ha,R1
+B0882,A2,first,forest,natural,R1,low,canopy cover; boundary or misregistration,sparse trees; no imagery close to 2020,>0.5 ha,R1
+B0884,A2,first,nonforest,no_trees,K1,low,other,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0886,A2,first,forest,natural,R1,low,other,no imagery close to 2020; clouds,>0.5 ha,R1
+B0890,A2,first,nonforest,no_trees,K2,low,land use,no imagery close to 2020,>0.5 ha,K2
+B0894,A2,first,forest,natural,R1,high,,none,<0.3 ha,K2
+B0898,A2,first,forest,natural,R2,low,boundary or misregistration; land use,mixed land use; sparse trees,>0.5 ha,R1
+B0902,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0906,A2,first,nonforest,no_trees,K2,high,,sparse trees,>0.5 ha,K2
+B0910,A2,first,forest,natural,R1,low,change close to 2020; other,no imagery close to 2020; low resolution only; sparse trees,>0.5 ha,R1
+B0914,A2,first,nonforest,agri_trees,N7,low,land use,none,>0.5 ha,N7
+B0918,A2,first,forest,natural,R1,high,,no imagery close to 2020,<0.3 ha,R1
+B0922,A2,first,forest,natural,R1,high,,will regenerate,<0.3 ha,R5
+B0926,A2,first,unknown,,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0929,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R1
+B0930,A2,first,forest,natural,R1,high,,clouds,>0.5 ha,R1
+B0932,A2,first,nonforest,nonforest_in_forest,K2,low,change close to 2020; boundary or misregistration,mixed land use,>0.5 ha,K2
+B0934,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0938,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0942,A2,first,nonforest,no_trees,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B0946,A2,first,forest,natural,R1,low,change close to 2020; boundary or misregistration; land use,no imagery close to 2020; mixed land use,>0.5 ha,N9
+B0947,A2,first,forest,natural,R1,low,boundary or misregistration; land use,no imagery close to 2020,>0.5 ha,R1
+B0950,A2,first,nonforest,no_trees,K1,high,,none,<0.3 ha,K1
+B0953,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0954,A2,first,nonforest,owl,K2,low,boundary or misregistration; change close to 2020; land use,no imagery close to 2020,<0.3 ha,N8
+B0955,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0957,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0958,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0962,A2,first,nonforest,agri_trees,N2,high,,none,<0.3 ha,N2
+B0966,A2,first,nonforest,no_trees,K3,high,,none,>0.5 ha,K3
+B0970,A2,first,nonforest,owl,K1,low,height; canopy cover; change close to 2020,sparse trees,>0.5 ha,K1
+B0974,A2,first,forest,natural,R1,low,boundary or misregistration; land use,sparse trees,0.3-0.5 ha,R1
+B0976,A2,first,forest,natural,R5,low,height; change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R1
+B0978,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0982,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0986,A2,first,nonforest,no_trees,K1,high,,low resolution only,>0.5 ha,K1
+B0990,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0993,A2,first,nonforest,nonforest_in_forest,K2,high,,mixed land use,>0.5 ha,N9
+B0994,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0998,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1002,A2,first,nonforest,nonforest_in_forest,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B1006,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B1010,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1014,A2,first,nonforest,owl,K1,low,height; canopy cover,none,0.3-0.5 ha,K2
+B1018,A2,first,forest,natural,R6,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R6
+B1022,A2,first,nonforest,tof,K1,high,,sparse trees,>0.5 ha,K1
+B1026,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1030,A2,first,unknown,,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B1034,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B1037,A2,first,forest,natural,R1,low,canopy cover; other,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B1038,A2,first,nonforest,no_trees,K4,high,,none,>0.5 ha,K4
+B1042,A2,first,forest,natural,R6,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R6
+B1046,A2,first,nonforest,no_trees,N10,low,other,no imagery close to 2020,>0.5 ha,N10
+B1050,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1054,A2,first,forest,natural,R1,high,,none,>0.5 ha,K1
+B1058,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1062,A2,first,forest,natural,R1,low,canopy cover; height; other,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B1066,A2,first,nonforest,no_trees,N9,low,height; canopy cover; land use; change close to 2020,none,>0.5 ha,R6
+B1067,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B1070,A2,first,nonforest,no_trees,K3,low,change close to 2020,no imagery close to 2020,>0.5 ha,K3
+B1074,A2,first,forest,natural,R1,low,canopy cover; change close to 2020; height,sparse trees; other,>0.5 ha,K2
+B1076,A2,first,nonforest,no_trees,N9,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B1078,A2,first,nonforest,nonforest_in_forest,K1,high,,none,>0.5 ha,K1
+B1079,A2,first,nonforest,no_trees,K2,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N3
+B1082,A2,first,nonforest,no_trees,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B1086,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1090,A2,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B1094,A2,first,nonforest,no_trees,K1,low,land use; change close to 2020,mixed land use,>0.5 ha,K1
+B1097,A2,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B1098,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1102,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1106,A2,first,nonforest,owl,K1,low,change close to 2020; height; canopy cover,no imagery close to 2020; will regenerate,>0.5 ha,R6
+B1109,A2,first,forest,natural,R5,low,change close to 2020,will regenerate,>0.5 ha,R6
+B1110,A2,first,forest,planted,R3,low,change close to 2020; height,none,>0.5 ha,R3
+B1114,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1118,A2,first,nonforest,agri_trees,N8,low,land use; change close to 2020,no imagery close to 2020; mixed land use,>0.5 ha,N8
+B1120,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1122,A2,first,forest,planted,R3,high,,will regenerate,>0.5 ha,R5
+B1126,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B1129,A2,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B1130,A2,first,nonforest,agri_trees,N4,low,land use,mixed land use,>0.5 ha,N4
+B1134,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B1138,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1142,A2,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B1146,A2,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B1150,A2,first,nonforest,owl,K1,low,height; boundary or misregistration,no imagery close to 2020,>0.5 ha,K1
+B1152,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1154,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1158,A2,first,nonforest,agri_trees,N4,low,land use; change close to 2020,mixed land use,>0.5 ha,N4
+B1162,A2,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B1166,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1168,A2,first,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+B1170,A2,first,forest,natural,R1,low,other,clouds,>0.5 ha,R1
+B1174,A2,first,forest,natural,R1,low,other,clouds,>0.5 ha,R1
+B1178,A2,first,forest,natural,R1,low,land use; change close to 2020,none,>0.5 ha,K2
+B1182,A2,first,forest,planted,R4,high,,none,>0.5 ha,R3
+B1185,A2,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B1186,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1190,A2,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1194,A2,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1198,A2,first,forest,planted,R3,high,,none,>0.5 ha,R3
+HC01,A3,calibration,forest,natural,R1,low,boundary or misregistration,none,>0.5 ha,R1
+HC02,A3,calibration,nonforest,owl,K1,low,canopy cover,sparse trees,>0.5 ha,K1
+HC03,A3,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC04,A3,calibration,forest,planted,R3,low,land use,mixed land use,>0.5 ha,R3
+HC05,A3,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC06,A3,calibration,nonforest,agri_trees,N1,high,,none,>0.5 ha,R6
+HC07,A3,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC08,A3,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC09,A3,calibration,nonforest,no_trees,N10,high,,no imagery close to 2020,>0.5 ha,N10
+HC10,A3,calibration,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+HC11,A3,calibration,nonforest,nonforest_in_forest,K2,low,land use,none,>0.5 ha,K2
+HC12,A3,calibration,nonforest,no_trees,K1,low,height; canopy cover,none,>0.5 ha,K1
+HC13,A3,calibration,nonforest,tof,K1,low,canopy cover; change close to 2020,clouds; no imagery close to 2020,>0.5 ha,K1
+HC14,A3,calibration,forest,natural,R1,low,canopy cover; height,no imagery close to 2020; sparse trees,>0.5 ha,R1
+HC15,A3,calibration,nonforest,owl,K1,low,canopy cover; height; change close to 2020,no imagery close to 2020,>0.5 ha,R6
+HC16,A3,calibration,unknown,,K6,low,height; other,no imagery close to 2020; clouds,>0.5 ha,K6
+HC17,A3,calibration,forest,natural,R1,low,boundary or misregistration,none,>0.5 ha,R1
+HC18,A3,calibration,forest,natural,R1,low,change close to 2020; other,no imagery close to 2020,>0.5 ha,R1
+HC19,A3,calibration,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+HC20,A3,calibration,nonforest,nonforest_in_forest,K2,low,boundary or misregistration; land use; change close to 2020,mixed land use,>0.5 ha,K5
+HC21,A3,calibration,forest,natural,R1,low,canopy cover,no imagery close to 2020; other,>0.5 ha,N3
+HC22,A3,calibration,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+HC23,A3,calibration,nonforest,owl,K2,low,height; change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R5
+HC24,A3,calibration,nonforest,agri_trees,N8,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+HC25,A3,calibration,nonforest,owl,N9,low,change close to 2020; canopy cover,will regenerate,>0.5 ha,R6
+B0003,A3,first,forest,planted,R3,low,height,no imagery close to 2020,>0.5 ha,R3
+B0006,A3,first,forest,natural,R1,low,height,no imagery close to 2020,>0.5 ha,R1
+B0007,A3,first,nonforest,owl,K1,low,change close to 2020,sparse trees,0.3-0.5 ha,R6
+B0011,A3,first,forest,planted,R3,high,,no imagery close to 2020,>0.5 ha,K1
+B0015,A3,first,nonforest,agri_trees,N4,low,land use,mixed land use,0.3-0.5 ha,N4
+B0019,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0023,A3,first,nonforest,agri_trees,N8,low,land use,no imagery close to 2020,>0.5 ha,N8
+B0024,A3,first,forest,natural,R1,low,land use,mixed land use,>0.5 ha,R1
+B0026,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0027,A3,first,forest,planted,R3,low,canopy cover,sparse trees,>0.5 ha,R3
+B0031,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0035,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0039,A3,first,nonforest,agri_trees,N8,low,land use,mixed land use,0.3-0.5 ha,N8
+B0040,A3,first,nonforest,owl,K1,low,canopy cover,no imagery close to 2020,>0.5 ha,K1
+B0043,A3,first,forest,planted,R4,low,height,will regenerate,>0.5 ha,R3
+B0046,A3,first,nonforest,agri_trees,N10,high,,none,>0.5 ha,N10
+B0047,A3,first,forest,natural,R1,low,boundary or misregistration; land use; other,mixed land use,>0.5 ha,R1
+B0050,A3,first,nonforest,agri_trees,N8,high,,none,>0.5 ha,N8
+B0051,A3,first,nonforest,agri_trees,N7,high,,none,>0.5 ha,N7
+B0055,A3,first,nonforest,nonforest_in_forest,N9,high,,will regenerate,>0.5 ha,R6
+B0059,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0060,A3,first,nonforest,owl,K1,low,height,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0063,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0067,A3,first,forest,natural,R1,low,land use,no imagery close to 2020,>0.5 ha,R1
+B0071,A3,first,forest,natural,R1,low,height; canopy cover,sparse trees,0.3-0.5 ha,R1
+B0073,A3,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B0075,A3,first,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+B0079,A3,first,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R1
+B0083,A3,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0087,A3,first,nonforest,agri_trees,N7,low,land use; change close to 2020,mixed land use,0.3-0.5 ha,N7
+B0091,A3,first,forest,planted,R5,low,change close to 2020,will regenerate,>0.5 ha,K1
+B0095,A3,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0099,A3,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B0103,A3,first,nonforest,urban_trees,K3,high,,clouds,>0.5 ha,K3
+B0105,A3,first,forest,planted,R3,low,change close to 2020,no imagery close to 2020,>0.5 ha,R5
+B0107,A3,first,forest,natural,R1,low,height,sparse trees,>0.5 ha,R1
+B0111,A3,first,forest,natural,R1,low,height,none,>0.5 ha,R1
+B0115,A3,first,forest,natural,R1,low,other; height,no imagery close to 2020,>0.5 ha,K1
+B0119,A3,first,nonforest,no_trees,K3,high,,no imagery close to 2020,<0.3 ha,K3
+B0122,A3,first,nonforest,tof,K1,low,height; land use,no imagery close to 2020; sparse trees,<0.3 ha,K1
+B0123,A3,first,nonforest,agri_trees,N9,low,change close to 2020,no imagery close to 2020,0.3-0.5 ha,N9
+B0127,A3,first,nonforest,no_trees,K4,low,change close to 2020,no imagery close to 2020,<0.3 ha,K4
+B0131,A3,first,forest,natural,R5,low,change close to 2020; height,no imagery close to 2020,0.3-0.5 ha,K1
+B0133,A3,first,forest,natural,R6,low,change close to 2020; height,will regenerate,>0.5 ha,R1
+B0135,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0136,A3,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0139,A3,first,forest,natural,R1,low,canopy cover; change close to 2020,no imagery close to 2020; clouds,>0.5 ha,R1
+B0142,A3,first,nonforest,agri_trees,N7,low,land use; change close to 2020,mixed land use,>0.5 ha,K1
+B0143,A3,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0147,A3,first,nonforest,agri_trees,N10,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N8
+B0151,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0155,A3,first,forest,natural,R1,low,boundary or misregistration; canopy cover; height,sparse trees,0.3-0.5 ha,R1
+B0159,A3,first,nonforest,agri_trees,N10,high,,none,0.3-0.5 ha,N10
+B0163,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0167,A3,first,nonforest,owl,K1,low,height; canopy cover,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0171,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0174,A3,first,nonforest,owl,K1,high,,sparse trees,>0.5 ha,K1
+B0175,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0179,A3,first,forest,natural,R6,low,change close to 2020,will regenerate,>0.5 ha,R6
+B0183,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0185,A3,first,forest,natural,R1,low,change close to 2020,sparse trees,>0.5 ha,N9
+B0187,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0190,A3,first,forest,natural,R6,low,change close to 2020; height,no imagery close to 2020; will regenerate,>0.5 ha,R6
+B0191,A3,first,nonforest,nonforest_in_forest,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B0195,A3,first,forest,natural,R1,high,,mixed land use,>0.5 ha,R1
+B0199,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0201,A3,first,nonforest,no_trees,K1,high,,none,<0.3 ha,K1
+B0203,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0207,A3,first,forest,natural,R1,low,height; land use,no imagery close to 2020,>0.5 ha,R1
+B0211,A3,first,nonforest,agri_trees,N10,high,,none,>0.5 ha,N10
+B0215,A3,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0218,A3,first,forest,natural,R6,low,change close to 2020; height,will regenerate,>0.5 ha,R6
+B0219,A3,first,forest,natural,R1,low,boundary or misregistration; land use,mixed land use,>0.5 ha,K2
+B0223,A3,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0227,A3,first,nonforest,agri_trees,N1,low,land use; change close to 2020,no imagery close to 2020,>0.5 ha,N1
+B0230,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0231,A3,first,nonforest,agri_trees,N10,low,change close to 2020,no imagery close to 2020,0.3-0.5 ha,N10
+B0233,A3,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0235,A3,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B0239,A3,first,nonforest,agri_trees,N1,high,,sparse trees,>0.5 ha,N1
+B0243,A3,first,forest,natural,R6,low,height; land use,mixed land use; sparse trees,>0.5 ha,R6
+B0245,A3,first,forest,natural,R1,low,height; change close to 2020,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B0247,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0251,A3,first,nonforest,no_trees,K2,low,change close to 2020; other,clouds; no imagery close to 2020,>0.5 ha,K2
+B0252,A3,first,forest,natural,R1,low,other,no imagery close to 2020; clouds,>0.5 ha,R1
+B0254,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0255,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0259,A3,first,forest,natural,R1,low,land use; change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0263,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0266,A3,first,nonforest,owl,K2,low,land use; change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B0267,A3,first,nonforest,no_trees,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B0271,A3,first,nonforest,owl,K1,low,height,no imagery close to 2020,>0.5 ha,K1
+B0275,A3,first,nonforest,no_trees,K1,high,,low resolution only,<0.3 ha,K1
+B0279,A3,first,unknown,,K2,low,boundary or misregistration; land use; change close to 2020,mixed land use,>0.5 ha,K3
+B0283,A3,first,forest,natural,R1,low,change close to 2020; boundary or misregistration,none,>0.5 ha,N8
+B0287,A3,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0291,A3,first,nonforest,agri_trees,N3,low,change close to 2020,no imagery close to 2020,>0.5 ha,N3
+B0295,A3,first,nonforest,owl,K1,low,height,sparse trees,0.3-0.5 ha,K1
+B0299,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0303,A3,first,forest,natural,R1,low,land use,none,>0.5 ha,R1
+B0307,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0311,A3,first,nonforest,no_trees,K3,low,other,no imagery close to 2020,<0.3 ha,K3
+B0315,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0319,A3,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B0321,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0323,A3,first,nonforest,agri_trees,N1,high,,none,>0.5 ha,N1
+B0327,A3,first,nonforest,agri_trees,N8,low,land use; canopy cover,sparse trees,0.3-0.5 ha,N8
+B0328,A3,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0331,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0334,A3,first,nonforest,agri_trees,N6,high,,no imagery close to 2020,>0.5 ha,N6
+B0335,A3,first,nonforest,agri_trees,N9,low,boundary or misregistration,no imagery close to 2020,<0.3 ha,N9
+B0339,A3,first,nonforest,no_trees,K4,high,,none,>0.5 ha,K4
+B0343,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0347,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0351,A3,first,nonforest,owl,K1,low,height,sparse trees,>0.5 ha,K1
+B0352,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0355,A3,first,forest,natural,R6,low,height; land use,mixed land use; sparse trees,>0.5 ha,R6
+B0359,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0362,A3,first,forest,natural,R1,low,canopy cover; boundary or misregistration,sparse trees,>0.5 ha,R1
+B0363,A3,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B0367,A3,first,forest,natural,R5,low,change close to 2020,will regenerate,>0.5 ha,K2
+B0371,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0375,A3,first,forest,natural,R6,low,height; land use,sparse trees,0.3-0.5 ha,R6
+B0379,A3,first,forest,natural,R1,high,,clouds,>0.5 ha,R1
+B0380,A3,first,nonforest,owl,K1,low,height,sparse trees,>0.5 ha,K1
+B0383,A3,first,nonforest,owl,K1,high,,none,>0.5 ha,K1
+B0387,A3,first,nonforest,agri_trees,N6,high,,none,>0.5 ha,N6
+B0389,A3,first,forest,natural,R5,low,change close to 2020,will regenerate,>0.5 ha,K1
+B0391,A3,first,forest,planted,R5,low,change close to 2020,will regenerate,>0.5 ha,R3
+B0393,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0395,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0399,A3,first,nonforest,owl,K1,low,change close to 2020; height,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0403,A3,first,forest,planted,R3,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0407,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0411,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0415,A3,first,unknown,,K6,low,other,clouds; no imagery close to 2020,>0.5 ha,K6
+B0419,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0423,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0427,A3,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K2
+B0431,A3,first,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,<0.3 ha,R1
+B0435,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0437,A3,first,nonforest,owl,K1,low,height,none,0.3-0.5 ha,K1
+B0439,A3,first,forest,natural,R1,low,boundary or misregistration; height,sparse trees,>0.5 ha,R1
+B0443,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0447,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0450,A3,first,nonforest,agri_trees,N8,low,land use,mixed land use,<0.3 ha,N8
+B0451,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0455,A3,first,forest,natural,R1,high,,sparse trees,>0.5 ha,R1
+B0457,A3,first,nonforest,agri_trees,N8,low,land use; canopy cover,none,>0.5 ha,N8
+B0459,A3,first,forest,natural,R1,low,height,no imagery close to 2020,>0.5 ha,R1
+B0463,A3,first,nonforest,owl,K1,low,height,sparse trees,>0.5 ha,K1
+B0467,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0471,A3,first,nonforest,no_trees,K1,low,boundary or misregistration,none,>0.5 ha,K1
+B0475,A3,first,nonforest,owl,K1,low,change close to 2020; land use,none,0.3-0.5 ha,R3
+B0479,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0482,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0483,A3,first,nonforest,agri_trees,N8,high,,none,<0.3 ha,N8
+B0487,A3,first,nonforest,tof,K1,high,,none,>0.5 ha,K1
+B0491,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0495,A3,first,nonforest,no_trees,K1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0499,A3,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0502,A3,first,nonforest,agri_trees,N7,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N7
+B0503,A3,first,forest,natural,R1,low,land use,mixed land use,>0.5 ha,R1
+B0507,A3,first,forest,natural,R1,low,canopy cover; change close to 2020,sparse trees,0.3-0.5 ha,R1
+B0509,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0511,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0515,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0516,A3,first,forest,natural,R1,high,,will regenerate,>0.5 ha,R6
+B0518,A3,first,forest,natural,R6,low,change close to 2020; height,no imagery close to 2020; will regenerate,>0.5 ha,R6
+B0519,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0523,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0527,A3,first,nonforest,agri_trees,N7,high,,none,0.3-0.5 ha,N7
+B0531,A3,first,nonforest,agri_trees,N9,high,,mixed land use,0.3-0.5 ha,N9
+B0535,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0539,A3,first,nonforest,agri_trees,N8,low,land use,mixed land use,0.3-0.5 ha,N8
+B0543,A3,first,nonforest,agri_trees,N7,low,land use,mixed land use,>0.5 ha,K2
+B0544,A3,first,unknown,,K6,low,other,no imagery close to 2020,>0.5 ha,R1
+B0547,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0551,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0555,A3,first,forest,natural,R6,low,change close to 2020; height,no imagery close to 2020; will regenerate,>0.5 ha,R1
+B0559,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0563,A3,first,nonforest,agri_trees,N8,low,land use,mixed land use,>0.5 ha,K2
+B0567,A3,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0571,A3,first,nonforest,agri_trees,K3,high,,none,>0.5 ha,K3
+B0575,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0579,A3,first,forest,natural,R6,low,height; canopy cover; change close to 2020,will regenerate,0.3-0.5 ha,R1
+B0583,A3,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0587,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0591,A3,first,nonforest,no_trees,K2,low,change close to 2020; land use,none,>0.5 ha,N3
+B0595,A3,first,nonforest,no_trees,K1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0599,A3,first,nonforest,owl,K1,high,,sparse trees,>0.5 ha,K1
+B0603,A3,first,forest,planted,R3,high,,no imagery close to 2020,>0.5 ha,R3
+B0607,A3,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B0611,A3,first,nonforest,owl,K1,low,canopy cover; height,sparse trees,>0.5 ha,K1
+B0615,A3,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0619,A3,first,forest,natural,R5,low,change close to 2020; height,will regenerate,0.3-0.5 ha,R1
+B0620,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0623,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0627,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0631,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0635,A3,first,nonforest,owl,K1,low,height,sparse trees,<0.3 ha,K1
+B0639,A3,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B0643,A3,first,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+B0647,A3,first,forest,natural,R1,low,boundary or misregistration; change close to 2020,clouds,>0.5 ha,R1
+B0649,A3,first,nonforest,no_trees,K4,high,,none,>0.5 ha,K4
+B0651,A3,first,forest,natural,R1,low,height,no imagery close to 2020,>0.5 ha,R1
+B0655,A3,first,nonforest,tof,K1,low,canopy cover; change close to 2020,no imagery close to 2020,<0.3 ha,K1
+B0659,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0663,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0667,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0669,A3,first,nonforest,agri_trees,N6,high,,no imagery close to 2020,>0.5 ha,N6
+B0671,A3,first,forest,natural,R6,low,height; land use; change close to 2020,mixed land use,>0.5 ha,R6
+B0674,A3,first,forest,planted,R3,low,change close to 2020,sparse trees,>0.5 ha,K2
+B0675,A3,first,forest,natural,R1,low,change close to 2020,none,>0.5 ha,K1
+B0677,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0679,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0683,A3,first,forest,planted,R5,low,change close to 2020; height,no imagery close to 2020; will regenerate,>0.5 ha,R3
+B0687,A3,first,forest,natural,R1,high,,none,>0.5 ha,K1
+B0691,A3,first,nonforest,no_trees,K4,high,,none,>0.5 ha,K4
+B0695,A3,first,forest,natural,R1,low,change close to 2020; boundary or misregistration,no imagery close to 2020,>0.5 ha,R1
+B0699,A3,first,nonforest,no_trees,K3,low,change close to 2020,no imagery close to 2020,>0.5 ha,K3
+B0701,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0703,A3,first,nonforest,owl,K1,low,height; boundary or misregistration,sparse trees,0.3-0.5 ha,K1
+B0707,A3,first,nonforest,no_trees,K2,high,,none,>0.5 ha,K2
+B0711,A3,first,nonforest,agri_trees,N7,high,,none,>0.5 ha,N9
+B0715,A3,first,nonforest,owl,K1,low,boundary or misregistration; height,sparse trees,>0.5 ha,K1
+B0719,A3,first,forest,natural,R1,low,change close to 2020; boundary or misregistration,no imagery close to 2020,>0.5 ha,R1
+B0723,A3,first,forest,natural,R1,high,,none,>0.5 ha,K2
+B0726,A3,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,K1
+B0727,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0731,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0734,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0735,A3,first,forest,natural,R1,low,land use; change close to 2020,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B0737,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0739,A3,first,forest,natural,R1,low,boundary or misregistration; canopy cover,sparse trees,>0.5 ha,R1
+B0740,A3,first,nonforest,owl,K1,low,height; canopy cover,sparse trees,>0.5 ha,R6
+B0743,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0747,A3,first,nonforest,agri_trees,N4,low,height; land use,sparse trees,>0.5 ha,N4
+B0751,A3,first,forest,natural,R1,high,,clouds,>0.5 ha,R1
+B0753,A3,first,nonforest,no_trees,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B0755,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0759,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0760,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0763,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0767,A3,first,nonforest,owl,K1,low,canopy cover; height,sparse trees,0.3-0.5 ha,K1
+B0771,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0775,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0779,A3,first,nonforest,no_trees,N9,high,,none,>0.5 ha,N9
+B0783,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0787,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0791,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0794,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0795,A3,first,nonforest,nonforest_in_forest,K1,high,,clouds,>0.5 ha,K1
+B0799,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0803,A3,first,forest,natural,R5,high,,will regenerate,0.3-0.5 ha,R6
+B0805,A3,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0807,A3,first,forest,natural,R6,low,height,none,>0.5 ha,R6
+B0811,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0815,A3,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0819,A3,first,nonforest,agri_trees,N4,low,land use; canopy cover,sparse trees,0.3-0.5 ha,N4
+B0822,A3,first,nonforest,owl,K1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0823,A3,first,nonforest,agri_trees,N1,high,,no imagery close to 2020,>0.5 ha,N1
+B0824,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0827,A3,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,K1
+B0831,A3,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0835,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0839,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0843,A3,first,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+B0847,A3,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,K1
+B0851,A3,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0855,A3,first,nonforest,tof,K1,high,,none,<0.3 ha,K1
+B0859,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0863,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0867,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0871,A3,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B0872,A3,first,nonforest,no_trees,K3,low,change close to 2020,no imagery close to 2020,<0.3 ha,K3
+B0875,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0879,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0883,A3,first,nonforest,no_trees,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B0887,A3,first,nonforest,no_trees,K1,low,change close to 2020,none,>0.5 ha,K1
+B0891,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0895,A3,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0899,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0900,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0903,A3,first,nonforest,agri_trees,N6,low,land use; change close to 2020,mixed land use,>0.5 ha,N6
+B0907,A3,first,nonforest,owl,K1,low,canopy cover; height,sparse trees,>0.5 ha,K1
+B0908,A3,first,nonforest,agri_trees,N8,low,land use,no imagery close to 2020,>0.5 ha,N8
+B0911,A3,first,nonforest,owl,K1,high,,none,>0.5 ha,K1
+B0915,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0919,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0923,A3,first,forest,natural,R5,low,change close to 2020; height; canopy cover,will regenerate,>0.5 ha,R1
+B0927,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0931,A3,first,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B0935,A3,first,forest,natural,R5,low,change close to 2020; canopy cover,will regenerate,>0.5 ha,R6
+B0939,A3,first,forest,natural,R1,low,other,clouds; no imagery close to 2020,>0.5 ha,R1
+B0943,A3,first,nonforest,agri_trees,N1,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N1
+B0945,A3,first,forest,natural,R1,low,canopy cover; other,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B0947,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0951,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0955,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0959,A3,first,forest,natural,R1,low,canopy cover,sparse trees,>0.5 ha,R1
+B0963,A3,first,nonforest,tof,K1,low,canopy cover; land use,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0967,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0971,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0975,A3,first,forest,natural,R1,low,canopy cover; height,sparse trees,>0.5 ha,R1
+B0979,A3,first,nonforest,nonforest_in_forest,K1,high,,none,>0.5 ha,K1
+B0983,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0987,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0991,A3,first,forest,natural,R6,low,height,sparse trees,>0.5 ha,R6
+B0995,A3,first,nonforest,agri_trees,N8,high,,none,>0.5 ha,N8
+B0999,A3,first,nonforest,nonforest_in_forest,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B1003,A3,first,nonforest,agri_trees,N9,high,,no imagery close to 2020,>0.5 ha,N9
+B1007,A3,first,nonforest,no_trees,K1,low,change close to 2020; land use,will regenerate,>0.5 ha,K1
+B1011,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1015,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1019,A3,first,nonforest,agri_trees,N1,low,change close to 2020,no imagery close to 2020,>0.5 ha,N1
+B1023,A3,first,nonforest,urban_trees,K3,high,,none,>0.5 ha,K3
+B1027,A3,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B1031,A3,first,nonforest,owl,K1,low,canopy cover; other,no imagery close to 2020,>0.5 ha,K1
+B1034,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1035,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1036,A3,first,nonforest,agri_trees,N7,high,,none,>0.5 ha,N7
+B1039,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1043,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1047,A3,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B1051,A3,first,nonforest,owl,K1,low,height; other,no imagery close to 2020; clouds,>0.5 ha,K1
+B1055,A3,first,nonforest,no_trees,K4,high,,none,>0.5 ha,K4
+B1059,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1063,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1067,A3,first,nonforest,owl,K1,high,,none,>0.5 ha,K1
+B1069,A3,first,nonforest,no_trees,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B1071,A3,first,nonforest,no_trees,K1,low,boundary or misregistration; canopy cover,none,>0.5 ha,K1
+B1072,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1074,A3,first,nonforest,owl,K1,low,canopy cover; change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,K1
+B1075,A3,first,nonforest,tof,K1,low,height; canopy cover,no imagery close to 2020; sparse trees,<0.3 ha,K1
+B1079,A3,first,nonforest,agri_trees,K2,high,,none,>0.5 ha,N3
+B1083,A3,first,nonforest,owl,K1,low,height; canopy cover,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B1087,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1091,A3,first,forest,natural,R1,high,,none,>0.5 ha,K1
+B1095,A3,first,forest,natural,R1,low,height,no imagery close to 2020,>0.5 ha,R1
+B1099,A3,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B1101,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1103,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1107,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1111,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B1113,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1115,A3,first,nonforest,no_trees,K2,low,boundary or misregistration; change close to 2020,none,>0.5 ha,K2
+B1118,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1119,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B1123,A3,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B1127,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R5
+B1131,A3,first,nonforest,nonforest_in_forest,K2,high,,none,>0.5 ha,K2
+B1135,A3,first,nonforest,no_trees,K1,low,canopy cover,no imagery close to 2020; mixed land use,>0.5 ha,K1
+B1136,A3,first,nonforest,no_trees,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B1139,A3,first,nonforest,owl,K1,low,change close to 2020; height; canopy cover,no imagery close to 2020; sparse trees,>0.5 ha,R6
+B1143,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1147,A3,first,unknown,,K6,low,other,no imagery close to 2020,>0.5 ha,R1
+B1151,A3,first,forest,natural,R1,low,height; canopy cover,clouds,>0.5 ha,R1
+B1155,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1159,A3,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1163,A3,first,nonforest,no_trees,K2,high,,none,>0.5 ha,K2
+B1164,A3,first,nonforest,tof,K1,low,canopy cover,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B1167,A3,first,nonforest,no_trees,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B1171,A3,first,nonforest,agri_trees,N9,low,change close to 2020; other,no imagery close to 2020,>0.5 ha,N9
+B1175,A3,first,nonforest,urban_trees,K3,high,,none,>0.5 ha,K3
+B1179,A3,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B1183,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1187,A3,first,nonforest,owl,K1,low,height; canopy cover; boundary or misregistration,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B1189,A3,first,forest,natural,R1,low,boundary or misregistration,none,>0.5 ha,R1
+B1191,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1192,A3,first,nonforest,owl,K1,low,land use; change close to 2020,no imagery close to 2020,>0.5 ha,N8
+B1195,A3,first,forest,natural,R1,high,,none,>0.5 ha,R1
+HC01,A4,calibration,forest,natural,R1,low,boundary or misregistration,none,>0.5 ha,R1
+HC02,A4,calibration,nonforest,owl,K1,low,canopy cover,sparse trees,>0.5 ha,N9
+HC03,A4,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC04,A4,calibration,forest,natural,R1,low,land use,mixed land use,>0.5 ha,R1
+HC05,A4,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC06,A4,calibration,nonforest,agri_trees,N2,low,land use,mixed land use,>0.5 ha,K2
+HC07,A4,calibration,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+HC08,A4,calibration,forest,planted,R3,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R3
+HC09,A4,calibration,nonforest,no_trees,N10,high,,no imagery close to 2020,>0.5 ha,N10
+HC10,A4,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC11,A4,calibration,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+HC12,A4,calibration,nonforest,nonforest_in_forest,K1,high,,none,>0.5 ha,K1
+HC13,A4,calibration,forest,natural,R1,low,canopy cover; height,sparse trees,0.3-0.5 ha,R1
+HC14,A4,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC15,A4,calibration,nonforest,owl,K1,low,height,sparse trees,>0.5 ha,K1
+HC16,A4,calibration,nonforest,agri_trees,N8,low,land use,no imagery close to 2020,>0.5 ha,N8
+HC17,A4,calibration,forest,natural,R1,low,height; land use,none,>0.5 ha,R1
+HC18,A4,calibration,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+HC19,A4,calibration,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+HC20,A4,calibration,nonforest,owl,K1,low,height; land use,sparse trees,0.3-0.5 ha,K1
+HC21,A4,calibration,forest,natural,R6,low,height; land use,mixed land use,>0.5 ha,K2
+HC22,A4,calibration,forest,natural,R1,high,,none,>0.5 ha,R1
+HC23,A4,calibration,nonforest,no_trees,K4,low,change close to 2020; boundary or misregistration,no imagery close to 2020,>0.5 ha,K4
+HC24,A4,calibration,nonforest,agri_trees,N8,low,change close to 2020,no imagery close to 2020,>0.5 ha,K4
+HC25,A4,calibration,forest,natural,R1,high,,will regenerate,<0.3 ha,R1
+B0004,A4,first,nonforest,no_trees,N9,low,other,no imagery close to 2020,0.3-0.5 ha,K1
+B0008,A4,first,forest,natural,R1,high,,sparse trees,>0.5 ha,R1
+B0010,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0012,A4,first,forest,natural,R1,high,,clouds,>0.5 ha,R1
+B0013,A4,first,nonforest,no_trees,N9,low,land use,mixed land use,<0.3 ha,N9
+B0016,A4,first,nonforest,owl,K1,low,other,no imagery close to 2020,<0.3 ha,K1
+B0020,A4,first,nonforest,no_trees,K4,high,,other,>0.5 ha,K4
+B0022,A4,first,nonforest,owl,K1,low,canopy cover,sparse trees,>0.5 ha,K1
+B0024,A4,first,nonforest,agri_trees,N8,low,land use,mixed land use,0.3-0.5 ha,N8
+B0028,A4,first,nonforest,owl,K1,low,height,mixed land use,0.3-0.5 ha,K1
+B0032,A4,first,forest,natural,R1,low,change close to 2020,none,>0.5 ha,K5
+B0036,A4,first,forest,natural,R1,low,boundary or misregistration,none,>0.5 ha,R1
+B0038,A4,first,nonforest,owl,K1,low,height,no imagery close to 2020,0.3-0.5 ha,R6
+B0040,A4,first,nonforest,no_trees,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B0044,A4,first,forest,planted,R3,high,,no imagery close to 2020,>0.5 ha,R3
+B0048,A4,first,nonforest,owl,K1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,K1
+B0049,A4,first,forest,natural,R1,low,height; land use,sparse trees,>0.5 ha,R1
+B0052,A4,first,nonforest,no_trees,K4,high,,no imagery close to 2020,>0.5 ha,K4
+B0056,A4,first,forest,natural,R1,low,height; change close to 2020,sparse trees; no imagery close to 2020,>0.5 ha,R1
+B0060,A4,first,nonforest,no_trees,K1,low,height,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0064,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0066,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0068,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0071,A4,first,forest,natural,R1,low,canopy cover; height,clouds; sparse trees,>0.5 ha,R1
+B0072,A4,first,forest,planted,R3,high,,no imagery close to 2020,>0.5 ha,R3
+B0076,A4,first,nonforest,owl,K1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,K1
+B0080,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0084,A4,first,nonforest,agri_trees,N8,high,,none,>0.5 ha,K2
+B0088,A4,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B0089,A4,first,nonforest,owl,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B0092,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0096,A4,first,nonforest,no_trees,K1,low,land use,no imagery close to 2020,>0.5 ha,K1
+B0099,A4,first,forest,natural,R1,low,height,sparse trees,>0.5 ha,R1
+B0100,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0104,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0108,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0112,A4,first,nonforest,agri_trees,N6,low,land use,no imagery close to 2020,0.3-0.5 ha,N6
+B0115,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,K1
+B0116,A4,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0117,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0120,A4,first,nonforest,agri_trees,N8,low,land use,no imagery close to 2020,0.3-0.5 ha,N8
+B0124,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0128,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0132,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0136,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0140,A4,first,forest,natural,R1,low,boundary or misregistration,mixed land use,>0.5 ha,R1
+B0144,A4,first,nonforest,no_trees,N9,high,,none,>0.5 ha,N9
+B0146,A4,first,forest,planted,R3,low,land use,none,>0.5 ha,R3
+B0148,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0152,A4,first,nonforest,no_trees,K4,low,boundary or misregistration,mixed land use,>0.5 ha,K4
+B0156,A4,first,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+B0160,A4,first,nonforest,owl,K1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B0164,A4,first,forest,natural,R1,low,height,none,>0.5 ha,R1
+B0165,A4,first,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,<0.3 ha,R1
+B0168,A4,first,nonforest,owl,K1,low,land use; canopy cover,sparse trees,>0.5 ha,K1
+B0172,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0176,A4,first,forest,natural,R1,low,height,sparse trees,>0.5 ha,R1
+B0180,A4,first,forest,natural,R1,low,land use,mixed land use,>0.5 ha,R1
+B0184,A4,first,nonforest,owl,K1,low,height,sparse trees,>0.5 ha,K1
+B0188,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0192,A4,first,unknown,,K6,low,other,clouds,>0.5 ha,K6
+B0196,A4,first,forest,natural,R6,low,height; land use,sparse trees,0.3-0.5 ha,R6
+B0199,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0200,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0204,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0208,A4,first,nonforest,owl,K1,low,change close to 2020; height,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0212,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0216,A4,first,nonforest,no_trees,N9,high,,none,>0.5 ha,N9
+B0220,A4,first,nonforest,no_trees,K3,low,other,no imagery close to 2020,<0.3 ha,K3
+B0224,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0228,A4,first,nonforest,owl,K1,high,,none,>0.5 ha,K1
+B0232,A4,first,nonforest,owl,K1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B0236,A4,first,forest,planted,R3,high,,no imagery close to 2020,>0.5 ha,R3
+B0240,A4,first,forest,natural,R1,low,change close to 2020,none,>0.5 ha,K1
+B0244,A4,first,nonforest,no_trees,K4,high,,none,0.3-0.5 ha,K4
+B0248,A4,first,nonforest,agri_trees,N1,high,,no imagery close to 2020,>0.5 ha,N1
+B0252,A4,first,nonforest,owl,K1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B0256,A4,first,nonforest,owl,K1,low,canopy cover; height,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0260,A4,first,nonforest,agri_trees,N8,low,land use; boundary or misregistration; height,no imagery close to 2020,>0.5 ha,N8
+B0264,A4,first,nonforest,owl,K1,low,boundary or misregistration; canopy cover; height,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0265,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0268,A4,first,forest,natural,R6,low,height,none,>0.5 ha,R6
+B0272,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0276,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0280,A4,first,forest,natural,R1,high,,low resolution only,>0.5 ha,R1
+B0284,A4,first,unknown,,N8,low,height; change close to 2020; boundary or misregistration,will regenerate,>0.5 ha,N8
+B0288,A4,first,nonforest,owl,K2,low,canopy cover,no imagery close to 2020,>0.5 ha,K1
+B0292,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0296,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R5
+B0298,A4,first,nonforest,nonforest_in_forest,K3,low,land use,no imagery close to 2020; low resolution only,<0.3 ha,K3
+B0300,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0303,A4,first,nonforest,owl,K1,low,land use,no imagery close to 2020,<0.3 ha,N9
+B0304,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0308,A4,first,nonforest,owl,K1,low,boundary or misregistration; canopy cover; change close to 2020,mixed land use,<0.3 ha,R6
+B0312,A4,first,nonforest,nonforest_in_forest,K2,high,,other,>0.5 ha,K2
+B0316,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0320,A4,first,nonforest,no_trees,K3,low,boundary or misregistration,mixed land use,<0.3 ha,K3
+B0324,A4,first,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+B0328,A4,first,nonforest,no_trees,K3,high,,no imagery close to 2020,<0.3 ha,K3
+B0332,A4,first,nonforest,agri_trees,N9,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B0336,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0340,A4,first,nonforest,agri_trees,N1,high,,none,>0.5 ha,K1
+B0344,A4,first,forest,natural,R1,low,boundary or misregistration; height,no imagery close to 2020,>0.5 ha,R1
+B0348,A4,first,forest,natural,R1,low,boundary or misregistration; canopy cover,mixed land use,>0.5 ha,R1
+B0350,A4,first,nonforest,nonforest_in_forest,K1,high,,none,>0.5 ha,K1
+B0352,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0356,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0360,A4,first,nonforest,owl,K1,high,,sparse trees,>0.5 ha,K1
+B0364,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0366,A4,first,nonforest,owl,K1,low,height; change close to 2020,sparse trees,>0.5 ha,K1
+B0368,A4,first,nonforest,owl,K1,low,height; land use,sparse trees,>0.5 ha,K1
+B0372,A4,first,forest,natural,R1,low,boundary or misregistration,mixed land use,>0.5 ha,R1
+B0375,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0376,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0378,A4,first,nonforest,no_trees,K4,low,boundary or misregistration; change close to 2020,mixed land use,>0.5 ha,K4
+B0380,A4,first,forest,natural,R5,low,change close to 2020; height,will regenerate,>0.5 ha,R1
+B0384,A4,first,forest,planted,R4,low,change close to 2020; height,no imagery close to 2020,0.3-0.5 ha,R3
+B0388,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0392,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0396,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0400,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0404,A4,first,nonforest,owl,K1,high,,sparse trees,>0.5 ha,K1
+B0408,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0412,A4,first,nonforest,no_trees,K1,low,land use; change close to 2020,no imagery close to 2020; mixed land use,>0.5 ha,K2
+B0416,A4,first,forest,natural,R1,high,,sparse trees,>0.5 ha,R1
+B0420,A4,first,nonforest,no_trees,N10,low,other,no imagery close to 2020,>0.5 ha,N10
+B0424,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0427,A4,first,nonforest,owl,K1,low,land use; change close to 2020,sparse trees; mixed land use,>0.5 ha,N9
+B0428,A4,first,nonforest,owl,K1,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R6
+B0432,A4,first,forest,natural,R1,low,boundary or misregistration,none,<0.3 ha,R1
+B0436,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0440,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0444,A4,first,nonforest,no_trees,N9,low,change close to 2020; land use,no imagery close to 2020,<0.3 ha,N9
+B0448,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0452,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0456,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0460,A4,first,nonforest,no_trees,K2,low,land use,no imagery close to 2020,>0.5 ha,K2
+B0464,A4,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B0468,A4,first,forest,natural,R1,high,,none,>0.5 ha,K2
+B0472,A4,first,nonforest,nonforest_in_forest,K2,low,land use; change close to 2020,none,>0.5 ha,K2
+B0474,A4,first,forest,natural,R1,low,canopy cover; boundary or misregistration,sparse trees,>0.5 ha,R1
+B0476,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0477,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0480,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0484,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0485,A4,first,nonforest,owl,K1,low,canopy cover; height,none,>0.5 ha,K1
+B0488,A4,first,unknown,,R1,low,canopy cover; change close to 2020,clouds; no imagery close to 2020,>0.5 ha,R1
+B0492,A4,first,forest,natural,R1,low,change close to 2020,none,>0.5 ha,N3
+B0496,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0500,A4,first,nonforest,no_trees,K1,low,other,no imagery close to 2020,>0.5 ha,K1
+B0504,A4,first,forest,natural,R1,low,land use,none,>0.5 ha,R1
+B0508,A4,first,nonforest,tof,K1,high,,none,>0.5 ha,K1
+B0512,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0516,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0520,A4,first,nonforest,no_trees,K2,high,,none,<0.3 ha,K3
+B0524,A4,first,nonforest,tof,N7,low,land use; height,none,<0.3 ha,K1
+B0528,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0532,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0536,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,K2
+B0540,A4,first,forest,natural,R6,low,change close to 2020; height,no imagery close to 2020; will regenerate,>0.5 ha,K2
+B0544,A4,first,forest,natural,R1,low,canopy cover; change close to 2020,clouds,>0.5 ha,R1
+B0548,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0552,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0556,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0560,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0563,A4,first,nonforest,agri_trees,N2,low,land use; height,sparse trees,0.3-0.5 ha,K2
+B0564,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0568,A4,first,nonforest,no_trees,K2,high,,none,0.3-0.5 ha,K2
+B0569,A4,first,nonforest,owl,K1,low,boundary or misregistration; canopy cover,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B0572,A4,first,forest,planted,R3,low,height; land use,none,>0.5 ha,R3
+B0576,A4,first,forest,natural,R6,low,height; other,no imagery close to 2020,>0.5 ha,R6
+B0580,A4,first,nonforest,agri_trees,N8,low,land use,sparse trees,>0.5 ha,N8
+B0584,A4,first,forest,natural,R6,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R6
+B0588,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0590,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0592,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0596,A4,first,forest,natural,R1,high,,clouds,>0.5 ha,R1
+B0598,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0600,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0604,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0605,A4,first,unknown,,K2,low,other,clouds,>0.5 ha,K2
+B0608,A4,first,unknown,,K6,low,other,no imagery close to 2020; low resolution only,>0.5 ha,K6
+B0612,A4,first,nonforest,agri_trees,N7,low,land use; boundary or misregistration,no imagery close to 2020,0.3-0.5 ha,N7
+B0616,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0620,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0624,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0628,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0632,A4,first,nonforest,no_trees,K2,high,,none,>0.5 ha,K2
+B0634,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0636,A4,first,forest,natural,R1,high,,none,<0.3 ha,R1
+B0640,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0641,A4,first,nonforest,owl,K1,low,height; canopy cover; change close to 2020,mixed land use; will regenerate,<0.3 ha,R6
+B0644,A4,first,unknown,,K2,low,change close to 2020; height; canopy cover,no imagery close to 2020; will regenerate,>0.5 ha,R1
+B0648,A4,first,nonforest,nonforest_in_forest,K3,high,,none,<0.3 ha,K3
+B0652,A4,first,nonforest,agri_trees,N9,low,land use; change close to 2020; boundary or misregistration,will regenerate; mixed land use,>0.5 ha,N9
+B0653,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0656,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0660,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0664,A4,first,nonforest,tof,K1,high,,none,>0.5 ha,K1
+B0667,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0668,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0672,A4,first,nonforest,owl,K1,low,canopy cover; height,no imagery close to 2020; low resolution only,<0.3 ha,R1
+B0676,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0680,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0684,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0687,A4,first,forest,natural,R1,high,,will regenerate,>0.5 ha,K1
+B0688,A4,first,forest,planted,R3,low,land use; height,sparse trees,>0.5 ha,R3
+B0692,A4,first,forest,planted,R3,low,land use,no imagery close to 2020,>0.5 ha,R3
+B0696,A4,first,nonforest,agri_trees,N1,high,,none,>0.5 ha,N1
+B0700,A4,first,forest,planted,R3,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,R3
+B0704,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0708,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0712,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0716,A4,first,nonforest,no_trees,K4,high,,none,>0.5 ha,K4
+B0718,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0720,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0724,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0728,A4,first,forest,natural,R1,low,height,sparse trees,0.3-0.5 ha,R1
+B0732,A4,first,forest,natural,R1,low,boundary or misregistration; change close to 2020,no imagery close to 2020,>0.5 ha,K3
+B0733,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0736,A4,first,nonforest,no_trees,K1,low,land use,mixed land use,<0.3 ha,K1
+B0740,A4,first,nonforest,no_trees,K2,high,,none,>0.5 ha,N9
+B0743,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0744,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0748,A4,first,forest,natural,R1,low,height; change close to 2020,clouds,>0.5 ha,R1
+B0752,A4,first,nonforest,agri_trees,N7,low,other,no imagery close to 2020,>0.5 ha,N7
+B0756,A4,first,nonforest,nonforest_in_forest,N9,high,,other,>0.5 ha,R5
+B0760,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0764,A4,first,nonforest,nonforest_in_forest,K3,high,,mixed land use,>0.5 ha,K3
+B0768,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0772,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0776,A4,first,nonforest,agri_trees,N10,high,,no imagery close to 2020,>0.5 ha,N10
+B0780,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0783,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0784,A4,first,unknown,,R5,low,canopy cover; change close to 2020,no imagery close to 2020; will regenerate,<0.3 ha,R1
+B0788,A4,first,nonforest,tof,K3,high,,none,>0.5 ha,K3
+B0792,A4,first,forest,natural,R1,high,,other,>0.5 ha,K2
+B0793,A4,first,nonforest,no_trees,K2,high,,other,<0.3 ha,K2
+B0796,A4,first,forest,natural,R1,high,,none,>0.5 ha,K2
+B0800,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0804,A4,first,nonforest,agri_trees,N1,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,N7
+B0808,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0812,A4,first,forest,planted,R5,low,change close to 2020,will regenerate,<0.3 ha,R3
+B0816,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0817,A4,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,N9
+B0820,A4,first,nonforest,owl,K1,high,,none,>0.5 ha,K1
+B0824,A4,first,forest,natural,R1,low,height,none,>0.5 ha,R1
+B0828,A4,first,nonforest,agri_trees,N9,low,land use; change close to 2020,mixed land use,<0.3 ha,K1
+B0832,A4,first,nonforest,no_trees,K1,high,,no imagery close to 2020,>0.5 ha,K1
+B0836,A4,first,forest,natural,R1,low,height; canopy cover,sparse trees; will regenerate,>0.5 ha,R5
+B0840,A4,first,nonforest,owl,K1,low,height,sparse trees,>0.5 ha,K1
+B0844,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0848,A4,first,nonforest,agri_trees,N8,low,change close to 2020; land use,no imagery close to 2020,0.3-0.5 ha,N8
+B0852,A4,first,forest,natural,R5,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0856,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0857,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0860,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0864,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0868,A4,first,nonforest,no_trees,N9,low,change close to 2020,none,>0.5 ha,N9
+B0872,A4,first,nonforest,owl,K2,low,change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R1
+B0876,A4,first,forest,natural,R1,low,change close to 2020; boundary or misregistration,no imagery close to 2020,>0.5 ha,R1
+B0880,A4,first,unknown,,R1,low,canopy cover,clouds; no imagery close to 2020,>0.5 ha,R1
+B0884,A4,first,nonforest,owl,K1,low,canopy cover; boundary or misregistration,no imagery close to 2020; sparse trees,>0.5 ha,R6
+B0888,A4,first,nonforest,tof,N9,low,boundary or misregistration; land use,mixed land use; sparse trees,<0.3 ha,N9
+B0892,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0896,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0900,A4,first,forest,natural,R1,low,other,other,>0.5 ha,R1
+B0903,A4,first,forest,natural,R1,high,,none,>0.5 ha,K3
+B0904,A4,first,nonforest,owl,K1,high,,sparse trees,>0.5 ha,K1
+B0908,A4,first,nonforest,agri_trees,N9,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B0912,A4,first,nonforest,no_trees,K2,low,land use; change close to 2020,no imagery close to 2020,<0.3 ha,R5
+B0916,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0920,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R5
+B0924,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0928,A4,first,forest,natural,R1,low,change close to 2020; other,no imagery close to 2020; other,<0.3 ha,R1
+B0932,A4,first,nonforest,no_trees,K2,low,canopy cover; change close to 2020,no imagery close to 2020; will regenerate,<0.3 ha,R5
+B0936,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0940,A4,first,nonforest,no_trees,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B0943,A4,first,nonforest,owl,K2,low,change close to 2020,no imagery close to 2020; other,>0.5 ha,N9
+B0944,A4,first,forest,natural,R1,low,land use,no imagery close to 2020; clouds,>0.5 ha,R1
+B0948,A4,first,forest,natural,R1,high,,other,>0.5 ha,R1
+B0952,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0954,A4,first,forest,planted,R3,high,,none,>0.5 ha,R3
+B0956,A4,first,nonforest,tof,N4,high,,other,>0.5 ha,N4
+B0960,A4,first,forest,natural,R1,low,boundary or misregistration,none,>0.5 ha,R1
+B0964,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0968,A4,first,nonforest,agri_trees,N2,low,land use; other,no imagery close to 2020; sparse trees,>0.5 ha,N2
+B0972,A4,first,nonforest,no_trees,K1,low,canopy cover,clouds; no imagery close to 2020; mixed land use,>0.5 ha,K1
+B0976,A4,first,unknown,,R4,low,change close to 2020,no imagery close to 2020; will regenerate,>0.5 ha,R4
+B0977,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0980,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0984,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0988,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0992,A4,first,forest,natural,R1,high,,no imagery close to 2020; mixed land use,>0.5 ha,R1
+B0996,A4,first,unknown,,K2,low,height; canopy cover; change close to 2020,no imagery close to 2020; sparse trees; mixed land use,>0.5 ha,N8
+B1000,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1002,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B1004,A4,first,forest,planted,R3,low,other,no imagery close to 2020; clouds,>0.5 ha,R3
+B1008,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1012,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1015,A4,first,forest,natural,R1,low,land use,none,>0.5 ha,R1
+B1016,A4,first,nonforest,agri_trees,N8,low,height; land use,no imagery close to 2020; sparse trees,>0.5 ha,N8
+B1018,A4,first,forest,natural,R1,low,canopy cover,sparse trees,>0.5 ha,R1
+B1020,A4,first,forest,natural,R1,low,other,no imagery close to 2020; clouds,>0.5 ha,R1
+B1024,A4,first,forest,natural,R5,low,change close to 2020; canopy cover,will regenerate,>0.5 ha,R6
+B1028,A4,first,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B1029,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1032,A4,first,forest,natural,R1,low,change close to 2020; other,no imagery close to 2020,>0.5 ha,R1
+B1036,A4,first,nonforest,tof,K1,high,,none,>0.5 ha,K1
+B1038,A4,first,nonforest,no_trees,K4,high,,no imagery close to 2020,>0.5 ha,K4
+B1040,A4,first,nonforest,tof,K1,low,canopy cover; other,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B1044,A4,first,nonforest,owl,K1,low,canopy cover; height,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B1048,A4,first,nonforest,no_trees,K2,low,change close to 2020; other,no imagery close to 2020; will regenerate,>0.5 ha,R6
+B1051,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B1052,A4,first,nonforest,agri_trees,N4,low,other,no imagery close to 2020,>0.5 ha,N4
+B1056,A4,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B1058,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1060,A4,first,forest,natural,R1,low,other,clouds; no imagery close to 2020,>0.5 ha,R1
+B1064,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1068,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1072,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1076,A4,first,nonforest,no_trees,N9,low,change close to 2020,no imagery close to 2020,>0.5 ha,N9
+B1080,A4,first,forest,natural,R1,low,canopy cover,sparse trees,>0.5 ha,R1
+B1084,A4,first,nonforest,owl,K1,low,canopy cover; height; other,no imagery close to 2020; sparse trees,>0.5 ha,K1
+B1088,A4,first,forest,natural,R1,low,land use,none,>0.5 ha,R1
+B1092,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1096,A4,first,nonforest,no_trees,K2,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B1100,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1104,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1108,A4,first,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B1112,A4,first,nonforest,urban_trees,K3,high,,none,>0.5 ha,K3
+B1116,A4,first,nonforest,no_trees,K1,low,canopy cover; other,no imagery close to 2020,>0.5 ha,K1
+B1117,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B1120,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1121,A4,first,nonforest,no_trees,K2,low,other,no imagery close to 2020,>0.5 ha,K1
+B1124,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1128,A4,first,nonforest,no_trees,N10,high,,none,>0.5 ha,N10
+B1132,A4,first,nonforest,urban_trees,K3,high,,none,>0.5 ha,K3
+B1136,A4,first,nonforest,no_trees,K1,low,other; change close to 2020,no imagery close to 2020,>0.5 ha,K1
+B1140,A4,first,forest,natural,R6,low,height; change close to 2020; other,will regenerate; no imagery close to 2020,>0.5 ha,R1
+B1144,A4,first,nonforest,owl,K1,low,height; canopy cover,none,>0.5 ha,K1
+B1148,A4,first,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B1151,A4,first,forest,natural,R1,low,other,clouds,>0.5 ha,R1
+B1152,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1153,A4,first,forest,natural,R1,low,other,no imagery close to 2020; clouds,>0.5 ha,R1
+B1155,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1156,A4,first,nonforest,no_trees,K2,high,,no imagery close to 2020,>0.5 ha,R3
+B1160,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1162,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B1164,A4,first,nonforest,agri_trees,N4,high,,none,>0.5 ha,K2
+B1167,A4,first,nonforest,no_trees,K1,low,canopy cover; other,no imagery close to 2020,>0.5 ha,K1
+B1168,A4,first,nonforest,no_trees,K3,high,,none,<0.3 ha,K3
+B1172,A4,first,nonforest,no_trees,N10,low,land use,no imagery close to 2020,>0.5 ha,N10
+B1176,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1177,A4,first,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1180,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B1184,A4,first,nonforest,agri_trees,N9,high,,none,>0.5 ha,K2
+B1188,A4,first,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B1192,A4,first,nonforest,no_trees,K1,low,change close to 2020; other,no imagery close to 2020,>0.5 ha,N8
+B1196,A4,first,forest,natural,R1,high,,none,>0.5 ha,R1
+B0028,A1,blind re-interpretation,nonforest,no_trees,K1,high,,none,0.3-0.5 ha,K1
+B0162,A1,blind re-interpretation,nonforest,no_trees,K1,low,boundary or misregistration; land use,no imagery close to 2020,>0.5 ha,K1
+B0184,A1,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0210,A1,blind re-interpretation,forest,planted,R5,low,change close to 2020; land use,will regenerate,>0.5 ha,R3
+B0214,A1,blind re-interpretation,forest,planted,R3,high,,none,>0.5 ha,R3
+B0243,A1,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0264,A1,blind re-interpretation,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0288,A1,blind re-interpretation,forest,natural,R1,low,height; canopy cover,sparse trees,>0.5 ha,R1
+B0444,A1,blind re-interpretation,nonforest,no_trees,N9,low,change close to 2020,mixed land use,>0.5 ha,N9
+B0524,A1,blind re-interpretation,nonforest,agri_trees,N8,low,land use,mixed land use,>0.5 ha,N8
+B0690,A1,blind re-interpretation,nonforest,owl,K1,low,height; land use,mixed land use; sparse trees,<0.3 ha,K1
+B0715,A1,blind re-interpretation,forest,natural,R1,low,boundary or misregistration; canopy cover,clouds,>0.5 ha,R1
+B0728,A1,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0834,A1,blind re-interpretation,forest,planted,R5,low,change close to 2020,will regenerate,>0.5 ha,R3
+B0850,A1,blind re-interpretation,nonforest,agri_trees,N4,low,land use; height,sparse trees,>0.5 ha,N4
+B0939,A1,blind re-interpretation,nonforest,agri_trees,N9,low,land use; height,no imagery close to 2020; clouds,>0.5 ha,N9
+B0972,A1,blind re-interpretation,nonforest,agri_trees,N9,low,land use,no imagery close to 2020,>0.5 ha,N9
+B0991,A1,blind re-interpretation,nonforest,owl,K1,low,boundary or misregistration; height,sparse trees,<0.3 ha,K1
+B1024,A1,blind re-interpretation,forest,natural,R5,low,change close to 2020; land use,will regenerate,>0.5 ha,R1
+B1046,A1,blind re-interpretation,nonforest,agri_trees,N9,low,change close to 2020; land use,no imagery close to 2020; mixed land use,>0.5 ha,N9
+B1075,A1,blind re-interpretation,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B1134,A1,blind re-interpretation,forest,natural,R1,low,change close to 2020,other,>0.5 ha,K1
+B1135,A1,blind re-interpretation,nonforest,no_trees,K1,low,land use,sparse trees,>0.5 ha,K1
+B1150,A1,blind re-interpretation,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,R1
+B0036,A2,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0039,A2,blind re-interpretation,nonforest,agri_trees,N8,low,land use; change close to 2020,sparse trees,>0.5 ha,N2
+B0076,A2,blind re-interpretation,forest,natural,R1,low,change close to 2020,will regenerate; sparse trees,>0.5 ha,K2
+B0149,A2,blind re-interpretation,nonforest,no_trees,K3,low,boundary or misregistration; land use,no imagery close to 2020,<0.3 ha,K3
+B0155,A2,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0169,A2,blind re-interpretation,nonforest,no_trees,K1,high,,none,>0.5 ha,K1
+B0207,A2,blind re-interpretation,nonforest,owl,K1,low,height; land use,no imagery close to 2020,>0.5 ha,K1
+B0251,A2,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0257,A2,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0259,A2,blind re-interpretation,forest,planted,R3,low,height; change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0277,A2,blind re-interpretation,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0291,A2,blind re-interpretation,forest,planted,R3,high,,no imagery close to 2020,>0.5 ha,R3
+B0384,A2,blind re-interpretation,forest,natural,R6,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R1
+B0412,A2,blind re-interpretation,nonforest,agri_trees,N9,low,change close to 2020; land use,mixed land use,>0.5 ha,N9
+B0475,A2,blind re-interpretation,forest,planted,R5,low,change close to 2020; land use,will regenerate,0.3-0.5 ha,R3
+B0547,A2,blind re-interpretation,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0555,A2,blind re-interpretation,forest,natural,R6,low,change close to 2020; height,no imagery close to 2020; will regenerate,0.3-0.5 ha,R1
+B0584,A2,blind re-interpretation,forest,natural,R6,low,height; change close to 2020,will regenerate,>0.5 ha,R6
+B0671,A2,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0840,A2,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0912,A2,blind re-interpretation,nonforest,no_trees,K2,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,K2
+B0937,A2,blind re-interpretation,forest,planted,R3,high,,none,>0.5 ha,R3
+B1048,A2,blind re-interpretation,nonforest,no_trees,K2,low,change close to 2020; land use,no imagery close to 2020,0.3-0.5 ha,R6
+B1077,A2,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B1137,A2,blind re-interpretation,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0098,A3,blind re-interpretation,nonforest,agri_trees,N3,high,,none,>0.5 ha,N3
+B0152,A3,blind re-interpretation,forest,natural,R1,low,boundary or misregistration; change close to 2020,none,>0.5 ha,R1
+B0173,A3,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0208,A3,blind re-interpretation,nonforest,owl,K1,low,height; canopy cover; change close to 2020,no imagery close to 2020; sparse trees,>0.5 ha,R6
+B0242,A3,blind re-interpretation,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0325,A3,blind re-interpretation,nonforest,owl,K1,low,change close to 2020; height,no imagery close to 2020; sparse trees,>0.5 ha,K2
+B0341,A3,blind re-interpretation,forest,natural,R1,low,other,clouds; no imagery close to 2020,<0.3 ha,R1
+B0472,A3,blind re-interpretation,nonforest,nonforest_in_forest,K1,high,,none,>0.5 ha,K1
+B0548,A3,blind re-interpretation,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0672,A3,blind re-interpretation,nonforest,nonforest_in_forest,K1,low,change close to 2020; height,no imagery close to 2020; will regenerate,>0.5 ha,R6
+B0784,A3,blind re-interpretation,nonforest,agri_trees,N7,high,,none,>0.5 ha,N7
+B0836,A3,blind re-interpretation,nonforest,agri_trees,N4,high,,none,>0.5 ha,N4
+B0898,A3,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0928,A3,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0944,A3,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0964,A3,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0989,A3,blind re-interpretation,nonforest,no_trees,K1,low,boundary or misregistration; other,no imagery close to 2020,>0.5 ha,K1
+B1020,A3,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B1028,A3,blind re-interpretation,forest,natural,R1,low,height; change close to 2020; boundary or misregistration,no imagery close to 2020; sparse trees,>0.5 ha,R1
+B1114,A3,blind re-interpretation,forest,natural,R6,low,height; other,no imagery close to 2020,>0.5 ha,R6
+B1130,A3,blind re-interpretation,nonforest,owl,K1,low,height; canopy cover,sparse trees,>0.5 ha,K1
+B1145,A3,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B1158,A3,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0219,A4,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0229,A4,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0295,A4,blind re-interpretation,nonforest,owl,K1,low,canopy cover; height,sparse trees,>0.5 ha,R6
+B0355,A4,blind re-interpretation,forest,natural,R6,low,height; land use,sparse trees,>0.5 ha,R6
+B0382,A4,blind re-interpretation,forest,planted,R3,low,change close to 2020,no imagery close to 2020,>0.5 ha,R3
+B0417,A4,blind re-interpretation,nonforest,no_trees,K1,high,,none,>0.5 ha,K3
+B0473,A4,blind re-interpretation,nonforest,no_trees,K2,low,change close to 2020; land use,other,>0.5 ha,N1
+B0507,A4,blind re-interpretation,forest,natural,R1,low,change close to 2020; height,will regenerate,0.3-0.5 ha,R1
+B0514,A4,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0521,A4,blind re-interpretation,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B0562,A4,blind re-interpretation,nonforest,agri_trees,N2,low,land use,no imagery close to 2020,>0.5 ha,N2
+B0579,A4,blind re-interpretation,nonforest,agri_trees,N3,low,height; change close to 2020,none,>0.5 ha,N3
+B0595,A4,blind re-interpretation,forest,natural,R1,high,,no imagery close to 2020,>0.5 ha,R1
+B0618,A4,blind re-interpretation,nonforest,no_trees,K4,low,other,no imagery close to 2020,<0.3 ha,K4
+B0650,A4,blind re-interpretation,forest,natural,R1,low,change close to 2020,no imagery close to 2020,>0.5 ha,K2
+B0705,A4,blind re-interpretation,nonforest,tof,K4,high,,no imagery close to 2020; clouds,>0.5 ha,K4
+B0739,A4,blind re-interpretation,nonforest,owl,K1,low,height,sparse trees,>0.5 ha,K1
+B0842,A4,blind re-interpretation,forest,natural,R1,high,,none,>0.5 ha,R1
+B0883,A4,blind re-interpretation,nonforest,agri_trees,N9,low,change close to 2020; land use,no imagery close to 2020,>0.5 ha,K2
+B0887,A4,blind re-interpretation,nonforest,nonforest_in_forest,K2,low,land use,mixed land use,>0.5 ha,K1
+B0921,A4,blind re-interpretation,nonforest,nonforest_in_forest,K2,high,,no imagery close to 2020,>0.5 ha,K2
+B0923,A4,blind re-interpretation,forest,natural,R1,low,other,no imagery close to 2020,>0.5 ha,R1
+B1026,A4,blind re-interpretation,forest,natural,R1,low,change close to 2020; height,no imagery close to 2020,>0.5 ha,R1
+B1115,A4,blind re-interpretation,nonforest,agri_trees,N8,low,land use; change close to 2020,mixed land use,>0.5 ha,N8
