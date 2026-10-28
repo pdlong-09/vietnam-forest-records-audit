@@ -78,7 +78,7 @@ def main():
             ["Acquired in or before December 2020", f"{f(im['before 2021'] * 100)}\\%"],
             ["Issue ``no imagery close to 2020'' recorded (F5)", f"{f(im['share citing \'no imagery close to 2020\' (F5)'] * 100)}\\%"],
             ["Low confidence recorded (F4)", f"{f(im['low confidence share'] * 100)}\\%"]]
-    table("s5_imagery", "Reference imagery used for the 2020 label: the first acquisition date noted in F8 of each main interpretation.",
+    table("s5_imagery", "Reference imagery used for the 2020 label: the first acquisition date noted in F8 of each main interpretation (released as the year and month, column f8\_imagery\_2020\_month of interpretations.csv).",
           "lc", "\\textbf{Item} & \\textbf{Value}", rows)
     t, checks = verify_b.main(str(ROOT / "release/land_audit_kaggle"), str(ROOT / "runs/land_audit/analysis_b"))
     rows = []
